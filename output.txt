@@ -1,0 +1,62 @@
+[
+  {
+    "teams": "Sunrisers Hyderabad",
+    "totalMatchesWon": 42
+  },
+  {
+    "teams": "Rising Pune Supergiant",
+    "totalMatchesWon": 10
+  },
+  {
+    "teams": "Kolkata Knight Riders",
+    "totalMatchesWon": 77
+  },
+  {
+    "teams": "Kings XI Punjab",
+    "totalMatchesWon": 70
+  },
+  {
+    "teams": "Royal Challengers Bangalore",
+    "totalMatchesWon": 73
+  },
+  {
+    "teams": "Mumbai Indians",
+    "totalMatchesWon": 92
+  },
+  {
+    "teams": "Delhi Daredevils",
+    "totalMatchesWon": 62
+  },
+  {
+    "teams": "Gujarat Lions",
+    "totalMatchesWon": 13
+  },
+  {
+    "teams": "Chennai Super Kings",
+    "totalMatchesWon": 79
+  },
+  {
+    "teams": "Rajasthan Royals",
+    "totalMatchesWon": 63
+  },
+  {
+    "teams": "Deccan Chargers",
+    "totalMatchesWon": 29
+  },
+  {
+    "teams": "Pune Warriors",
+    "totalMatchesWon": 12
+  },
+  {
+    "teams": "Kochi Tuskers Kerala",
+    "totalMatchesWon": 6
+  },
+  {
+    "teams": "",
+    "totalMatchesWon": 3
+  },
+  {
+    "teams": "Rising Pune Supergiants",
+    "totalMatchesWon": 5
+  }
+]
