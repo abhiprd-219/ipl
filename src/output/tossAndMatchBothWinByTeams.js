@@ -1,33 +1,36 @@
 const { matches, deliveries } = require('./Index');
 const fs = require('fs');
 
-function findWinnerByTeamAndYear() {
+function findTossAndMatchWinsByTeamAndYear() {
     let seasonMap = new Map();
 
     matches.forEach(match => {
         const season = match.season;
         const team = match.winner;
 
-        // Initialize season data if it doesn't exist
-        if (!seasonMap.has(season)) {
-            seasonMap.set(season, new Map());
-        }
+        // Check if the team won both the toss and the match
+        if (match.toss_winner === team) {
+            // Initialize season data if it doesn't exist
+            if (!seasonMap.has(season)) {
+                seasonMap.set(season, new Map());
+            }
 
-        let teamMap = seasonMap.get(season);
+            let teamMap = seasonMap.get(season);
 
-        // Increment the count for the team within that season
-        if (teamMap.has(team)) {
-            let count = teamMap.get(team);
-            teamMap.set(team, count + 1);
-        } else {
-            teamMap.set(team, 1);
+            // Increment the count for the team within that season
+            if (teamMap.has(team)) {
+                let count = teamMap.get(team);
+                teamMap.set(team, count + 1);
+            } else {
+                teamMap.set(team, 1);
+            }
         }
     });
 
     return seasonMap;
 }
 
-const output = findWinnerByTeamAndYear();
+const output = findTossAndMatchWinsByTeamAndYear();
 
 // Convert the nested Map to an array of key-value pairs for JSON formatting
 const outputArray = Array.from(output, ([season, teamMap]) => ({
