@@ -16,13 +16,9 @@ function findMatchesPlayedPerSeason(){
 
 const output = findMatchesPlayedPerSeason();
 
-// Convert the Map to an array of key-value pairs and format it as a JSON string
 const outputArray = Array.from(output, ([year, totalMatches]) => ({ year, totalMatches }));
-const outputJSON = JSON.stringify(outputArray, null, 2); // Pretty-print JSON with indentation
-
-// Write the output to 'output.json' in the current directory
-fs.writeFile('output.json', outputJSON, (err) => {
-  if (err) throw err;
-  console.log("Output has been written to output.json")
-}
-);
+const outputJSON = JSON.stringify(outputArray, null, 2); 
+fs.writeFile('public/findMatchesPlayedPerSeason.json', outputJSON, (err) => {
+    if (err) throw err;
+    console.log("Output has been written to public/output.json");
+});
