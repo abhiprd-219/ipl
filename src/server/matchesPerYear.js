@@ -18,7 +18,7 @@ const output = findMatchesPlayedPerSeason();
 
 const outputArray = Array.from(output, ([year, totalMatches]) => ({ year, totalMatches }));
 const outputJSON = JSON.stringify(outputArray, null, 2); 
-fs.writeFile('public/findMatchesPlayedPerSeason.json', outputJSON, (err) => {
+fs.writeFile('src/output/findMatchesPlayedPerSeason.json', outputJSON, (err) => {
     if (err) throw err;
-    console.log("Output has been written to public/output.json");
+    console.log("Output has been written to src/output/name.json");
 });

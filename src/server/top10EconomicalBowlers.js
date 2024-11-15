@@ -46,7 +46,7 @@ function findEconomicalBowlers2015() {
 const output = findEconomicalBowlers2015();
 const outputJSON = JSON.stringify(output, null, 2);
 
-fs.writeFile('public/findEconomicalBowlers2015.json', outputJSON, (err) => {
+fs.writeFile('src/output/findEconomicalBowlers2015.json', outputJSON, (err) => {
     if (err) throw err;
-    console.log("Output has been written to public/output.json");
+    console.log("Output has been written to src/output/name.json");
 });

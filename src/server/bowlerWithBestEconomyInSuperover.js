@@ -42,7 +42,7 @@ const output = findBestEconomyBowlerInSuperOvers();
 const outputJSON = JSON.stringify(output, null, 2); 
 
 
-fs.writeFile('public/findBestEconomyBowlerInSuperOvers.json', outputJSON, (err) => {
+fs.writeFile('src/output/findBestEconomyBowlerInSuperOvers.json', outputJSON, (err) => {
     if (err) throw err;
-    console.log("Output has been written to public/output.json");
+    console.log("Output has been written to src/output/name.json");
 });

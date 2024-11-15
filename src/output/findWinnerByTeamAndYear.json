@@ -1,0 +1,396 @@
+[
+  {
+    "season": "2017",
+    "teams": [
+      {
+        "team": "Sunrisers Hyderabad",
+        "wins": 8
+      },
+      {
+        "team": "Rising Pune Supergiant",
+        "wins": 10
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 9
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 7
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 3
+      },
+      {
+        "team": "Mumbai Indians",
+        "wins": 12
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 6
+      },
+      {
+        "team": "Gujarat Lions",
+        "wins": 4
+      }
+    ]
+  },
+  {
+    "season": "2008",
+    "teams": [
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 6
+      },
+      {
+        "team": "Chennai Super Kings",
+        "wins": 9
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 7
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 4
+      },
+      {
+        "team": "Rajasthan Royals",
+        "wins": 13
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 10
+      },
+      {
+        "team": "Deccan Chargers",
+        "wins": 2
+      },
+      {
+        "team": "Mumbai Indians",
+        "wins": 7
+      }
+    ]
+  },
+  {
+    "season": "2009",
+    "teams": [
+      {
+        "team": "Mumbai Indians",
+        "wins": 5
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 9
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 10
+      },
+      {
+        "team": "Deccan Chargers",
+        "wins": 9
+      },
+      {
+        "team": "Chennai Super Kings",
+        "wins": 8
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 3
+      },
+      {
+        "team": "Rajasthan Royals",
+        "wins": 6
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 7
+      }
+    ]
+  },
+  {
+    "season": "2010",
+    "teams": [
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 7
+      },
+      {
+        "team": "Mumbai Indians",
+        "wins": 11
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 7
+      },
+      {
+        "team": "Deccan Chargers",
+        "wins": 8
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 8
+      },
+      {
+        "team": "Chennai Super Kings",
+        "wins": 9
+      },
+      {
+        "team": "Rajasthan Royals",
+        "wins": 6
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 4
+      }
+    ]
+  },
+  {
+    "season": "2011",
+    "teams": [
+      {
+        "team": "Chennai Super Kings",
+        "wins": 11
+      },
+      {
+        "team": "Rajasthan Royals",
+        "wins": 6
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 10
+      },
+      {
+        "team": "Mumbai Indians",
+        "wins": 10
+      },
+      {
+        "team": "Pune Warriors",
+        "wins": 4
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 8
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 7
+      },
+      {
+        "team": "Deccan Chargers",
+        "wins": 6
+      },
+      {
+        "team": "Kochi Tuskers Kerala",
+        "wins": 6
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 4
+      },
+      {
+        "team": "",
+        "wins": 1
+      }
+    ]
+  },
+  {
+    "season": "2012",
+    "teams": [
+      {
+        "team": "Mumbai Indians",
+        "wins": 10
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 11
+      },
+      {
+        "team": "Pune Warriors",
+        "wins": 4
+      },
+      {
+        "team": "Rajasthan Royals",
+        "wins": 7
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 8
+      },
+      {
+        "team": "Chennai Super Kings",
+        "wins": 10
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 12
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 8
+      },
+      {
+        "team": "Deccan Chargers",
+        "wins": 4
+      }
+    ]
+  },
+  {
+    "season": "2013",
+    "teams": [
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 6
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 9
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "wins": 10
+      },
+      {
+        "team": "Rajasthan Royals",
+        "wins": 11
+      },
+      {
+        "team": "Mumbai Indians",
+        "wins": 13
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 8
+      },
+      {
+        "team": "Chennai Super Kings",
+        "wins": 12
+      },
+      {
+        "team": "Pune Warriors",
+        "wins": 4
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 3
+      }
+    ]
+  },
+  {
+    "season": "2014",
+    "teams": [
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 11
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 5
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 12
+      },
+      {
+        "team": "Rajasthan Royals",
+        "wins": 7
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 2
+      },
+      {
+        "team": "Chennai Super Kings",
+        "wins": 10
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "wins": 6
+      },
+      {
+        "team": "Mumbai Indians",
+        "wins": 7
+      }
+    ]
+  },
+  {
+    "season": "2015",
+    "teams": [
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 7
+      },
+      {
+        "team": "Chennai Super Kings",
+        "wins": 10
+      },
+      {
+        "team": "Rajasthan Royals",
+        "wins": 7
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 8
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 3
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "wins": 7
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 5
+      },
+      {
+        "team": "Mumbai Indians",
+        "wins": 10
+      },
+      {
+        "team": "",
+        "wins": 2
+      }
+    ]
+  },
+  {
+    "season": "2016",
+    "teams": [
+      {
+        "team": "Rising Pune Supergiants",
+        "wins": 5
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "wins": 8
+      },
+      {
+        "team": "Gujarat Lions",
+        "wins": 9
+      },
+      {
+        "team": "Royal Challengers Bangalore",
+        "wins": 9
+      },
+      {
+        "team": "Mumbai Indians",
+        "wins": 7
+      },
+      {
+        "team": "Delhi Daredevils",
+        "wins": 7
+      },
+      {
+        "team": "Kings XI Punjab",
+        "wins": 4
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "wins": 11
+      }
+    ]
+  }
+]

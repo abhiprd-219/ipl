@@ -1,0 +1,52 @@
+[
+  {
+    "season": "2017",
+    "player": "BA Stokes",
+    "awards": 3
+  },
+  {
+    "season": "2008",
+    "player": "SE Marsh",
+    "awards": 5
+  },
+  {
+    "season": "2009",
+    "player": "YK Pathan",
+    "awards": 3
+  },
+  {
+    "season": "2010",
+    "player": "SR Tendulkar",
+    "awards": 4
+  },
+  {
+    "season": "2011",
+    "player": "CH Gayle",
+    "awards": 6
+  },
+  {
+    "season": "2012",
+    "player": "CH Gayle",
+    "awards": 5
+  },
+  {
+    "season": "2013",
+    "player": "MEK Hussey",
+    "awards": 5
+  },
+  {
+    "season": "2014",
+    "player": "GJ Maxwell",
+    "awards": 4
+  },
+  {
+    "season": "2015",
+    "player": "DA Warner",
+    "awards": 4
+  },
+  {
+    "season": "2016",
+    "player": "V Kohli",
+    "awards": 5
+  }
+]

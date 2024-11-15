@@ -1,0 +1,6176 @@
+[
+  {
+    "season": "2017",
+    "strikeRates": [
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "138.74"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "125.07"
+      },
+      {
+        "batsman": "MC Henriques",
+        "strikeRate": "135.12"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "134.04"
+      },
+      {
+        "batsman": "DJ Hooda",
+        "strikeRate": "147.17"
+      },
+      {
+        "batsman": "BCJ Cutting",
+        "strikeRate": "188.89"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "116.28"
+      },
+      {
+        "batsman": "Mandeep Singh",
+        "strikeRate": "105.62"
+      },
+      {
+        "batsman": "TM Head",
+        "strikeRate": "138.53"
+      },
+      {
+        "batsman": "KM Jadhav",
+        "strikeRate": "137.63"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "88.75"
+      },
+      {
+        "batsman": "Sachin Baby",
+        "strikeRate": "88.24"
+      },
+      {
+        "batsman": "STR Binny",
+        "strikeRate": "101.30"
+      },
+      {
+        "batsman": "S Aravind",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "YS Chahal",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "TS Mills",
+        "strikeRate": "72.73"
+      },
+      {
+        "batsman": "A Choudhary",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "128.25"
+      },
+      {
+        "batsman": "JC Buttler",
+        "strikeRate": "146.77"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "119.78"
+      },
+      {
+        "batsman": "N Rana",
+        "strikeRate": "120.22"
+      },
+      {
+        "batsman": "AT Rayudu",
+        "strikeRate": "113.75"
+      },
+      {
+        "batsman": "KH Pandya",
+        "strikeRate": "130.65"
+      },
+      {
+        "batsman": "KA Pollard",
+        "strikeRate": "134.35"
+      },
+      {
+        "batsman": "HH Pandya",
+        "strikeRate": "145.35"
+      },
+      {
+        "batsman": "TG Southee",
+        "strikeRate": "233.33"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "116.46"
+      },
+      {
+        "batsman": "MA Agarwal",
+        "strikeRate": "89.66"
+      },
+      {
+        "batsman": "SPD Smith",
+        "strikeRate": "118.00"
+      },
+      {
+        "batsman": "BA Stokes",
+        "strikeRate": "139.21"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "111.11"
+      },
+      {
+        "batsman": "JJ Roy",
+        "strikeRate": "143.90"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "140.97"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "142.58"
+      },
+      {
+        "batsman": "AJ Finch",
+        "strikeRate": "157.89"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "134.70"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "122.96"
+      },
+      {
+        "batsman": "CA Lynn",
+        "strikeRate": "168.57"
+      },
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "133.88"
+      },
+      {
+        "batsman": "DT Christian",
+        "strikeRate": "151.92"
+      },
+      {
+        "batsman": "HM Amla",
+        "strikeRate": "141.89"
+      },
+      {
+        "batsman": "M Vohra",
+        "strikeRate": "134.71"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "120.62"
+      },
+      {
+        "batsman": "AR Patel",
+        "strikeRate": "132.75"
+      },
+      {
+        "batsman": "GJ Maxwell",
+        "strikeRate": "166.67"
+      },
+      {
+        "batsman": "DA Miller",
+        "strikeRate": "101.22"
+      },
+      {
+        "batsman": "Vishnu Vinod",
+        "strikeRate": "73.08"
+      },
+      {
+        "batsman": "Iqbal Abdulla",
+        "strikeRate": "71.43"
+      },
+      {
+        "batsman": "P Negi",
+        "strikeRate": "126.32"
+      },
+      {
+        "batsman": "AP Tare",
+        "strikeRate": "72.00"
+      },
+      {
+        "batsman": "SW Billings",
+        "strikeRate": "128.97"
+      },
+      {
+        "batsman": "KK Nair",
+        "strikeRate": "122.71"
+      },
+      {
+        "batsman": "SV Samson",
+        "strikeRate": "140.36"
+      },
+      {
+        "batsman": "RR Pant",
+        "strikeRate": "161.95"
+      },
+      {
+        "batsman": "CH Morris",
+        "strikeRate": "158.76"
+      },
+      {
+        "batsman": "CR Brathwaite",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "PJ Cummins",
+        "strikeRate": "142.59"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "S Nadeem",
+        "strikeRate": "22.22"
+      },
+      {
+        "batsman": "Z Khan",
+        "strikeRate": "30.77"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "151.27"
+      },
+      {
+        "batsman": "DS Kulkarni",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "88.89"
+      },
+      {
+        "batsman": "Basil Thampi",
+        "strikeRate": "93.33"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "162.34"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "125.71"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "116.26"
+      },
+      {
+        "batsman": "SA Yadav",
+        "strikeRate": "117.98"
+      },
+      {
+        "batsman": "CR Woakes",
+        "strikeRate": "97.87"
+      },
+      {
+        "batsman": "SP Narine",
+        "strikeRate": "165.93"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "94.12"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "126.32"
+      },
+      {
+        "batsman": "CJ Anderson",
+        "strikeRate": "109.23"
+      },
+      {
+        "batsman": "F du Plessis",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "RA Tripathi",
+        "strikeRate": "142.18"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "94.12"
+      },
+      {
+        "batsman": "DL Chahar",
+        "strikeRate": "233.33"
+      },
+      {
+        "batsman": "A Zampa",
+        "strikeRate": "71.43"
+      },
+      {
+        "batsman": "AB Dinda",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "Imran Tahir",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "112.86"
+      },
+      {
+        "batsman": "V Shankar",
+        "strikeRate": "131.17"
+      },
+      {
+        "batsman": "Rashid Khan",
+        "strikeRate": "122.22"
+      },
+      {
+        "batsman": "B Kumar",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "MP Stoinis",
+        "strikeRate": "68.00"
+      },
+      {
+        "batsman": "MM Sharma",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "VR Aaron",
+        "strikeRate": "36.36"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "119.84"
+      },
+      {
+        "batsman": "MJ McClenaghan",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "Ankit Sharma",
+        "strikeRate": "156.25"
+      },
+      {
+        "batsman": "SN Thakur",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "RD Chahar",
+        "strikeRate": "150.00"
+      },
+      {
+        "batsman": "LH Ferguson",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "C de Grandhomme",
+        "strikeRate": "136.96"
+      },
+      {
+        "batsman": "Bipul Sharma",
+        "strikeRate": "124.00"
+      },
+      {
+        "batsman": "SS Iyer",
+        "strikeRate": "135.74"
+      },
+      {
+        "batsman": "EJG Morgan",
+        "strikeRate": "104.84"
+      },
+      {
+        "batsman": "KC Cariappa",
+        "strikeRate": "28.57"
+      },
+      {
+        "batsman": "Sandeep Sharma",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "Ishan Kishan",
+        "strikeRate": "129.44"
+      },
+      {
+        "batsman": "JD Unadkat",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "AF Milne",
+        "strikeRate": "58.33"
+      },
+      {
+        "batsman": "S Badree",
+        "strikeRate": "52.00"
+      },
+      {
+        "batsman": "AD Mathews",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "Mohammed Shami",
+        "strikeRate": "150.00"
+      },
+      {
+        "batsman": "Mohammad Nabi",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "I Sharma",
+        "strikeRate": "61.54"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "133.90"
+      },
+      {
+        "batsman": "AJ Tye",
+        "strikeRate": "176.67"
+      },
+      {
+        "batsman": "KS Williamson",
+        "strikeRate": "150.59"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "Shakib Al Hasan",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "JP Faulkner",
+        "strikeRate": "90.00"
+      },
+      {
+        "batsman": "MG Johnson",
+        "strikeRate": "117.65"
+      },
+      {
+        "batsman": "K Rabada",
+        "strikeRate": "80.88"
+      },
+      {
+        "batsman": "AD Nath",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "NM Coulter-Nile",
+        "strikeRate": "107.69"
+      },
+      {
+        "batsman": "Kuldeep Yadav",
+        "strikeRate": "90.91"
+      },
+      {
+        "batsman": "UT Yadav",
+        "strikeRate": "76.92"
+      },
+      {
+        "batsman": "Washington Sundar",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "KV Sharma",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "DM Bravo",
+        "strikeRate": "120.00"
+      },
+      {
+        "batsman": "AR Bawne",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "SP Jackson",
+        "strikeRate": "122.58"
+      },
+      {
+        "batsman": "MJ Guptill",
+        "strikeRate": "150.00"
+      },
+      {
+        "batsman": "Anureet Singh",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "Ankit Soni",
+        "strikeRate": "77.78"
+      },
+      {
+        "batsman": "JJ Bumrah",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "SL Malinga",
+        "strikeRate": "233.33"
+      },
+      {
+        "batsman": "PJ Sangwan",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "S Kaul",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "LMP Simmons",
+        "strikeRate": "118.10"
+      },
+      {
+        "batsman": "MN Samuels",
+        "strikeRate": "90.63"
+      },
+      {
+        "batsman": "Swapnil Singh",
+        "strikeRate": "63.16"
+      },
+      {
+        "batsman": "R Tewatia",
+        "strikeRate": "172.73"
+      },
+      {
+        "batsman": "MM Patel",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "113.04"
+      },
+      {
+        "batsman": "TA Boult",
+        "strikeRate": "62.50"
+      },
+      {
+        "batsman": "CJ Jordan",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "IR Jaggi",
+        "strikeRate": "82.50"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "AS Rajpoot",
+        "strikeRate": "57.14"
+      }
+    ]
+  },
+  {
+    "season": "2008",
+    "strikeRates": [
+      {
+        "batsman": "SC Ganguly",
+        "strikeRate": "107.72"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "195.83"
+      },
+      {
+        "batsman": "RT Ponting",
+        "strikeRate": "73.58"
+      },
+      {
+        "batsman": "DJ Hussey",
+        "strikeRate": "119.48"
+      },
+      {
+        "batsman": "Mohammad Hafeez",
+        "strikeRate": "76.19"
+      },
+      {
+        "batsman": "R Dravid",
+        "strikeRate": "124.08"
+      },
+      {
+        "batsman": "W Jaffer",
+        "strikeRate": "104.55"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "98.21"
+      },
+      {
+        "batsman": "JH Kallis",
+        "strikeRate": "105.85"
+      },
+      {
+        "batsman": "CL White",
+        "strikeRate": "108.57"
+      },
+      {
+        "batsman": "MV Boucher",
+        "strikeRate": "124.31"
+      },
+      {
+        "batsman": "B Akhil",
+        "strikeRate": "143.75"
+      },
+      {
+        "batsman": "AA Noffke",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "112.00"
+      },
+      {
+        "batsman": "Z Khan",
+        "strikeRate": "79.07"
+      },
+      {
+        "batsman": "SB Joshi",
+        "strikeRate": "37.50"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "95.87"
+      },
+      {
+        "batsman": "ML Hayden",
+        "strikeRate": "140.00"
+      },
+      {
+        "batsman": "MEK Hussey",
+        "strikeRate": "168.00"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "129.78"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "138.49"
+      },
+      {
+        "batsman": "JDP Oram",
+        "strikeRate": "138.46"
+      },
+      {
+        "batsman": "S Badrinath",
+        "strikeRate": "139.13"
+      },
+      {
+        "batsman": "K Goel",
+        "strikeRate": "96.20"
+      },
+      {
+        "batsman": "JR Hopes",
+        "strikeRate": "145.39"
+      },
+      {
+        "batsman": "KC Sangakkara",
+        "strikeRate": "154.59"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "156.54"
+      },
+      {
+        "batsman": "SM Katich",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "109.17"
+      },
+      {
+        "batsman": "T Kohli",
+        "strikeRate": "62.50"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "171.94"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "146.58"
+      },
+      {
+        "batsman": "M Kaif",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "DS Lehmann",
+        "strikeRate": "94.74"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "M Rawat",
+        "strikeRate": "87.18"
+      },
+      {
+        "batsman": "D Salunkhe",
+        "strikeRate": "137.50"
+      },
+      {
+        "batsman": "SK Warne",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "SK Trivedi",
+        "strikeRate": "41.67"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "135.53"
+      },
+      {
+        "batsman": "V Sehwag",
+        "strikeRate": "177.29"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "110.39"
+      },
+      {
+        "batsman": "L Ronchi",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "ST Jayasuriya",
+        "strikeRate": "154.35"
+      },
+      {
+        "batsman": "DJ Thornely",
+        "strikeRate": "72.22"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "109.97"
+      },
+      {
+        "batsman": "PR Shah",
+        "strikeRate": "89.47"
+      },
+      {
+        "batsman": "AM Nayar",
+        "strikeRate": "145.07"
+      },
+      {
+        "batsman": "SM Pollock",
+        "strikeRate": "126.72"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "176.47"
+      },
+      {
+        "batsman": "S Chanderpaul",
+        "strikeRate": "75.76"
+      },
+      {
+        "batsman": "LRPL Taylor",
+        "strikeRate": "175.29"
+      },
+      {
+        "batsman": "AC Gilchrist",
+        "strikeRate": "132.93"
+      },
+      {
+        "batsman": "Y Venugopal Rao",
+        "strikeRate": "132.72"
+      },
+      {
+        "batsman": "VVS Laxman",
+        "strikeRate": "115.67"
+      },
+      {
+        "batsman": "A Symonds",
+        "strikeRate": "145.05"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "146.38"
+      },
+      {
+        "batsman": "SB Styris",
+        "strikeRate": "90.32"
+      },
+      {
+        "batsman": "AS Yadav",
+        "strikeRate": "122.50"
+      },
+      {
+        "batsman": "SB Bangar",
+        "strikeRate": "95.92"
+      },
+      {
+        "batsman": "WPUJC Vaas",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "RP Singh",
+        "strikeRate": "108.00"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "133.61"
+      },
+      {
+        "batsman": "LR Shukla",
+        "strikeRate": "128.35"
+      },
+      {
+        "batsman": "DPMD Jayawardene",
+        "strikeRate": "129.71"
+      },
+      {
+        "batsman": "S Sohal",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "B Lee",
+        "strikeRate": "121.43"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "147.54"
+      },
+      {
+        "batsman": "WA Mota",
+        "strikeRate": "92.86"
+      },
+      {
+        "batsman": "Kamran Akmal",
+        "strikeRate": "164.10"
+      },
+      {
+        "batsman": "Shahid Afridi",
+        "strikeRate": "176.09"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "129.93"
+      },
+      {
+        "batsman": "MA Khote",
+        "strikeRate": "109.09"
+      },
+      {
+        "batsman": "A Nehra",
+        "strikeRate": "23.08"
+      },
+      {
+        "batsman": "GC Smith",
+        "strikeRate": "117.60"
+      },
+      {
+        "batsman": "Pankaj Singh",
+        "strikeRate": "62.50"
+      },
+      {
+        "batsman": "RR Sarwan",
+        "strikeRate": "93.59"
+      },
+      {
+        "batsman": "S Sreesanth",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "VRV Singh",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "130.00"
+      },
+      {
+        "batsman": "DS Kulkarni",
+        "strikeRate": "11.76"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "89.29"
+      },
+      {
+        "batsman": "AB Agarkar",
+        "strikeRate": "110.20"
+      },
+      {
+        "batsman": "M Kartik",
+        "strikeRate": "107.14"
+      },
+      {
+        "batsman": "I Sharma",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "21.05"
+      },
+      {
+        "batsman": "Shoaib Malik",
+        "strikeRate": "106.12"
+      },
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "119.54"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "134.26"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "121.43"
+      },
+      {
+        "batsman": "MF Maharoof",
+        "strikeRate": "158.23"
+      },
+      {
+        "batsman": "VY Mahesh",
+        "strikeRate": "53.57"
+      },
+      {
+        "batsman": "TM Srivastava",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "B Chipli",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "DB Das",
+        "strikeRate": "108.42"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "30.00"
+      },
+      {
+        "batsman": "HH Gibbs",
+        "strikeRate": "105.03"
+      },
+      {
+        "batsman": "DNT Zoysa",
+        "strikeRate": "122.22"
+      },
+      {
+        "batsman": "D Kalyankrishna",
+        "strikeRate": "37.50"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "136.28"
+      },
+      {
+        "batsman": "SA Asnodkar",
+        "strikeRate": "129.05"
+      },
+      {
+        "batsman": "Sohail Tanvir",
+        "strikeRate": "116.13"
+      },
+      {
+        "batsman": "Salman Butt",
+        "strikeRate": "112.21"
+      },
+      {
+        "batsman": "BJ Hodge",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "Umar Gul",
+        "strikeRate": "205.26"
+      },
+      {
+        "batsman": "AB Dinda",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "SP Fleming",
+        "strikeRate": "114.62"
+      },
+      {
+        "batsman": "S Vidyut",
+        "strikeRate": "126.09"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "143.45"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "95.00"
+      },
+      {
+        "batsman": "LPC Silva",
+        "strikeRate": "148.15"
+      },
+      {
+        "batsman": "DB Ravi Teja",
+        "strikeRate": "128.24"
+      },
+      {
+        "batsman": "Misbah-ul-Haq",
+        "strikeRate": "142.68"
+      },
+      {
+        "batsman": "YV Takawale",
+        "strikeRate": "101.45"
+      },
+      {
+        "batsman": "RR Raje",
+        "strikeRate": "88.89"
+      },
+      {
+        "batsman": "PJ Sangwan",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "Mohammad Asif",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "GD McGrath",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "Joginder Sharma",
+        "strikeRate": "145.45"
+      },
+      {
+        "batsman": "MS Gony",
+        "strikeRate": "140.00"
+      },
+      {
+        "batsman": "M Muralitharan",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "M Ntini",
+        "strikeRate": "57.89"
+      },
+      {
+        "batsman": "DT Patil",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "A Kumble",
+        "strikeRate": "76.47"
+      },
+      {
+        "batsman": "S Anirudha",
+        "strikeRate": "12.50"
+      },
+      {
+        "batsman": "MM Patel",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "CK Kapugedera",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "A Chopra",
+        "strikeRate": "76.36"
+      },
+      {
+        "batsman": "T Taibu",
+        "strikeRate": "119.23"
+      },
+      {
+        "batsman": "J Arunkumar",
+        "strikeRate": "95.83"
+      },
+      {
+        "batsman": "PP Ojha",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "SP Goswami",
+        "strikeRate": "95.35"
+      },
+      {
+        "batsman": "SR Tendulkar",
+        "strikeRate": "99.47"
+      },
+      {
+        "batsman": "U Kaul",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "TM Dilshan",
+        "strikeRate": "131.65"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "88.10"
+      },
+      {
+        "batsman": "AD Mascarenhas",
+        "strikeRate": "112.50"
+      },
+      {
+        "batsman": "Niraj Patel",
+        "strikeRate": "124.10"
+      },
+      {
+        "batsman": "LA Pomersbach",
+        "strikeRate": "150.50"
+      },
+      {
+        "batsman": "Iqbal Abdulla",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "Younis Khan",
+        "strikeRate": "42.86"
+      },
+      {
+        "batsman": "PM Sarvesh Kumar",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "DP Vijaykumar",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "Shoaib Akhtar",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "Abdur Razzak",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "H Das",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "109.76"
+      },
+      {
+        "batsman": "SD Chitnis",
+        "strikeRate": "180.00"
+      },
+      {
+        "batsman": "CRD Fernando",
+        "strikeRate": "200.00"
+      },
+      {
+        "batsman": "VS Yeligati",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "L Balaji",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "A Mukund",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "RR Powar",
+        "strikeRate": "133.33"
+      }
+    ]
+  },
+  {
+    "season": "2009",
+    "strikeRates": [
+      {
+        "batsman": "ST Jayasuriya",
+        "strikeRate": "107.80"
+      },
+      {
+        "batsman": "SR Tendulkar",
+        "strikeRate": "115.56"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "86.96"
+      },
+      {
+        "batsman": "JP Duminy",
+        "strikeRate": "111.38"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "103.32"
+      },
+      {
+        "batsman": "AM Nayar",
+        "strikeRate": "124.52"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "147.37"
+      },
+      {
+        "batsman": "Z Khan",
+        "strikeRate": "72.73"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "108.40"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "136.48"
+      },
+      {
+        "batsman": "ML Hayden",
+        "strikeRate": "139.85"
+      },
+      {
+        "batsman": "A Flintoff",
+        "strikeRate": "108.77"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "122.96"
+      },
+      {
+        "batsman": "JDP Oram",
+        "strikeRate": "93.62"
+      },
+      {
+        "batsman": "S Badrinath",
+        "strikeRate": "106.63"
+      },
+      {
+        "batsman": "Joginder Sharma",
+        "strikeRate": "111.11"
+      },
+      {
+        "batsman": "T Thushara",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "JD Ryder",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "LRPL Taylor",
+        "strikeRate": "132.70"
+      },
+      {
+        "batsman": "KP Pietersen",
+        "strikeRate": "104.49"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "98.87"
+      },
+      {
+        "batsman": "R Dravid",
+        "strikeRate": "113.39"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "109.33"
+      },
+      {
+        "batsman": "B Akhil",
+        "strikeRate": "106.25"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "141.30"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "106.82"
+      },
+      {
+        "batsman": "GC Smith",
+        "strikeRate": "95.50"
+      },
+      {
+        "batsman": "SA Asnodkar",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "Niraj Patel",
+        "strikeRate": "43.90"
+      },
+      {
+        "batsman": "T Henderson",
+        "strikeRate": "68.75"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "135.94"
+      },
+      {
+        "batsman": "AD Mascarenhas",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "106.88"
+      },
+      {
+        "batsman": "SK Warne",
+        "strikeRate": "91.53"
+      },
+      {
+        "batsman": "M Rawat",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "MM Patel",
+        "strikeRate": "126.92"
+      },
+      {
+        "batsman": "Kamran Khan",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "RS Bopara",
+        "strikeRate": "111.29"
+      },
+      {
+        "batsman": "K Goel",
+        "strikeRate": "88.57"
+      },
+      {
+        "batsman": "KC Sangakkara",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "107.26"
+      },
+      {
+        "batsman": "DPMD Jayawardene",
+        "strikeRate": "127.33"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "119.51"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "101.06"
+      },
+      {
+        "batsman": "V Sehwag",
+        "strikeRate": "135.62"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "115.32"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "115.72"
+      },
+      {
+        "batsman": "SC Ganguly",
+        "strikeRate": "88.73"
+      },
+      {
+        "batsman": "BJ Hodge",
+        "strikeRate": "115.14"
+      },
+      {
+        "batsman": "A Chopra",
+        "strikeRate": "55.00"
+      },
+      {
+        "batsman": "LR Shukla",
+        "strikeRate": "96.51"
+      },
+      {
+        "batsman": "MC Henriques",
+        "strikeRate": "95.00"
+      },
+      {
+        "batsman": "AB Agarkar",
+        "strikeRate": "113.79"
+      },
+      {
+        "batsman": "M Kartik",
+        "strikeRate": "105.00"
+      },
+      {
+        "batsman": "I Sharma",
+        "strikeRate": "123.08"
+      },
+      {
+        "batsman": "AB Dinda",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "AC Gilchrist",
+        "strikeRate": "146.88"
+      },
+      {
+        "batsman": "HH Gibbs",
+        "strikeRate": "107.85"
+      },
+      {
+        "batsman": "VVS Laxman",
+        "strikeRate": "57.58"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "112.07"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "132.88"
+      },
+      {
+        "batsman": "JH Kallis",
+        "strikeRate": "103.44"
+      },
+      {
+        "batsman": "R Bishnoi",
+        "strikeRate": "111.76"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "A Kumble",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "T Kohli",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "79.49"
+      },
+      {
+        "batsman": "SB Styris",
+        "strikeRate": "175.00"
+      },
+      {
+        "batsman": "Y Venugopal Rao",
+        "strikeRate": "105.08"
+      },
+      {
+        "batsman": "DB Ravi Teja",
+        "strikeRate": "91.55"
+      },
+      {
+        "batsman": "FH Edwards",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "KV Sharma",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "129.53"
+      },
+      {
+        "batsman": "TM Dilshan",
+        "strikeRate": "117.09"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "128.57"
+      },
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "69.23"
+      },
+      {
+        "batsman": "MS Gony",
+        "strikeRate": "185.71"
+      },
+      {
+        "batsman": "M Muralitharan",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "PC Valthaty",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "RJ Quiney",
+        "strikeRate": "98.10"
+      },
+      {
+        "batsman": "AS Raut",
+        "strikeRate": "120.00"
+      },
+      {
+        "batsman": "SB Bangar",
+        "strikeRate": "22.22"
+      },
+      {
+        "batsman": "Yashpal Singh",
+        "strikeRate": "70.15"
+      },
+      {
+        "batsman": "Pankaj Singh",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "160.45"
+      },
+      {
+        "batsman": "RP Singh",
+        "strikeRate": "47.06"
+      },
+      {
+        "batsman": "PP Ojha",
+        "strikeRate": "14.29"
+      },
+      {
+        "batsman": "PR Shah",
+        "strikeRate": "98.15"
+      },
+      {
+        "batsman": "MV Boucher",
+        "strikeRate": "123.97"
+      },
+      {
+        "batsman": "M Manhas",
+        "strikeRate": "115.38"
+      },
+      {
+        "batsman": "WA Mota",
+        "strikeRate": "62.50"
+      },
+      {
+        "batsman": "AA Bilakhia",
+        "strikeRate": "79.76"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "108.33"
+      },
+      {
+        "batsman": "AN Ghosh",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "BAW Mendis",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "DL Vettori",
+        "strikeRate": "106.25"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "130.00"
+      },
+      {
+        "batsman": "PJ Sangwan",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "MN van Wyk",
+        "strikeRate": "123.70"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "175.61"
+      },
+      {
+        "batsman": "SP Goswami",
+        "strikeRate": "82.81"
+      },
+      {
+        "batsman": "RE van der Merwe",
+        "strikeRate": "120.79"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "140.00"
+      },
+      {
+        "batsman": "RR Powar",
+        "strikeRate": "104.55"
+      },
+      {
+        "batsman": "TL Suman",
+        "strikeRate": "122.80"
+      },
+      {
+        "batsman": "Shoaib Ahmed",
+        "strikeRate": "16.67"
+      },
+      {
+        "batsman": "SK Trivedi",
+        "strikeRate": "47.37"
+      },
+      {
+        "batsman": "GR Napier",
+        "strikeRate": "93.75"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "112.50"
+      },
+      {
+        "batsman": "KP Appanna",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "SM Katich",
+        "strikeRate": "121.85"
+      },
+      {
+        "batsman": "TM Srivastava",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "LA Carseldine",
+        "strikeRate": "114.08"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "115.86"
+      },
+      {
+        "batsman": "SM Harwood",
+        "strikeRate": "64.29"
+      },
+      {
+        "batsman": "M Vijay",
+        "strikeRate": "86.96"
+      },
+      {
+        "batsman": "SB Jakati",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "L Balaji",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "118.98"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "44.44"
+      },
+      {
+        "batsman": "S Sohal",
+        "strikeRate": "112.75"
+      },
+      {
+        "batsman": "W Jaffer",
+        "strikeRate": "78.95"
+      },
+      {
+        "batsman": "RJ Harris",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "S Sreesanth",
+        "strikeRate": "26.32"
+      },
+      {
+        "batsman": "RR Raje",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "DS Kulkarni",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "D du Preez",
+        "strikeRate": "76.92"
+      },
+      {
+        "batsman": "L Ronchi",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "A Symonds",
+        "strikeRate": "145.61"
+      },
+      {
+        "batsman": "B Lee",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "WPUJC Vaas",
+        "strikeRate": "142.86"
+      },
+      {
+        "batsman": "M Morkel",
+        "strikeRate": "88.89"
+      },
+      {
+        "batsman": "DJ Hussey",
+        "strikeRate": "160.66"
+      },
+      {
+        "batsman": "AD Mathews",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "LA Pomersbach",
+        "strikeRate": "83.67"
+      },
+      {
+        "batsman": "SD Chitnis",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "J Botha",
+        "strikeRate": "111.90"
+      },
+      {
+        "batsman": "YV Takawale",
+        "strikeRate": "81.82"
+      },
+      {
+        "batsman": "C Nanda",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "SL Malinga",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "MF Maharoof",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "A Nehra",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "Mashrafe Mortaza",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "A Singh",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "GJ Bailey",
+        "strikeRate": "112.50"
+      },
+      {
+        "batsman": "AB McDonald",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "Y Nagar",
+        "strikeRate": "90.91"
+      },
+      {
+        "batsman": "SS Shaikh",
+        "strikeRate": "85.71"
+      },
+      {
+        "batsman": "R Ashwin",
+        "strikeRate": "53.33"
+      },
+      {
+        "batsman": "Mohammad Ashraful",
+        "strikeRate": "16.67"
+      }
+    ]
+  },
+  {
+    "season": "2010",
+    "strikeRates": [
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "123.44"
+      },
+      {
+        "batsman": "SC Ganguly",
+        "strikeRate": "112.05"
+      },
+      {
+        "batsman": "CA Pujara",
+        "strikeRate": "102.52"
+      },
+      {
+        "batsman": "BJ Hodge",
+        "strikeRate": "104.21"
+      },
+      {
+        "batsman": "OA Shah",
+        "strikeRate": "119.79"
+      },
+      {
+        "batsman": "AD Mathews",
+        "strikeRate": "118.27"
+      },
+      {
+        "batsman": "AC Gilchrist",
+        "strikeRate": "144.50"
+      },
+      {
+        "batsman": "VVS Laxman",
+        "strikeRate": "103.23"
+      },
+      {
+        "batsman": "HH Gibbs",
+        "strikeRate": "109.88"
+      },
+      {
+        "batsman": "A Symonds",
+        "strikeRate": "120.51"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "130.32"
+      },
+      {
+        "batsman": "Anirudh Singh",
+        "strikeRate": "91.30"
+      },
+      {
+        "batsman": "TL Suman",
+        "strikeRate": "116.29"
+      },
+      {
+        "batsman": "WPUJC Vaas",
+        "strikeRate": "88.24"
+      },
+      {
+        "batsman": "Jaskaran Singh",
+        "strikeRate": "72.73"
+      },
+      {
+        "batsman": "ST Jayasuriya",
+        "strikeRate": "94.29"
+      },
+      {
+        "batsman": "SR Tendulkar",
+        "strikeRate": "126.38"
+      },
+      {
+        "batsman": "AP Tare",
+        "strikeRate": "121.95"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "131.35"
+      },
+      {
+        "batsman": "AT Rayudu",
+        "strikeRate": "137.98"
+      },
+      {
+        "batsman": "R Sathish",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "164.06"
+      },
+      {
+        "batsman": "R McLaren",
+        "strikeRate": "92.96"
+      },
+      {
+        "batsman": "GC Smith",
+        "strikeRate": "110.00"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "128.23"
+      },
+      {
+        "batsman": "AA Jhunjhunwala",
+        "strikeRate": "106.40"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "158.57"
+      },
+      {
+        "batsman": "P Dogra",
+        "strikeRate": "99.07"
+      },
+      {
+        "batsman": "AD Mascarenhas",
+        "strikeRate": "109.09"
+      },
+      {
+        "batsman": "A Uniyal",
+        "strikeRate": "57.14"
+      },
+      {
+        "batsman": "SK Warne",
+        "strikeRate": "47.62"
+      },
+      {
+        "batsman": "RS Bopara",
+        "strikeRate": "111.21"
+      },
+      {
+        "batsman": "MS Bisla",
+        "strikeRate": "115.34"
+      },
+      {
+        "batsman": "KC Sangakkara",
+        "strikeRate": "137.31"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "125.73"
+      },
+      {
+        "batsman": "DPMD Jayawardene",
+        "strikeRate": "142.63"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "146.81"
+      },
+      {
+        "batsman": "M Kaif",
+        "strikeRate": "90.32"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "98.41"
+      },
+      {
+        "batsman": "RR Powar",
+        "strikeRate": "62.50"
+      },
+      {
+        "batsman": "S Sreesanth",
+        "strikeRate": "122.73"
+      },
+      {
+        "batsman": "YA Abdulla",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "124.22"
+      },
+      {
+        "batsman": "V Sehwag",
+        "strikeRate": "156.83"
+      },
+      {
+        "batsman": "TM Dilshan",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "90.24"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "114.88"
+      },
+      {
+        "batsman": "M Manhas",
+        "strikeRate": "103.97"
+      },
+      {
+        "batsman": "MF Maharoof",
+        "strikeRate": "129.17"
+      },
+      {
+        "batsman": "JH Kallis",
+        "strikeRate": "110.64"
+      },
+      {
+        "batsman": "SP Goswami",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "106.87"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "142.13"
+      },
+      {
+        "batsman": "EJG Morgan",
+        "strikeRate": "112.90"
+      },
+      {
+        "batsman": "R Dravid",
+        "strikeRate": "126.11"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "166.96"
+      },
+      {
+        "batsman": "RE van der Merwe",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "M Vijay",
+        "strikeRate": "150.16"
+      },
+      {
+        "batsman": "ML Hayden",
+        "strikeRate": "117.29"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "136.43"
+      },
+      {
+        "batsman": "S Badrinath",
+        "strikeRate": "114.84"
+      },
+      {
+        "batsman": "JM Kemp",
+        "strikeRate": "104.00"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "133.49"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "147.41"
+      },
+      {
+        "batsman": "R Ashwin",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "L Balaji",
+        "strikeRate": "90.00"
+      },
+      {
+        "batsman": "M Muralitharan",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "S Tyagi",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "SA Asnodkar",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "126.42"
+      },
+      {
+        "batsman": "LR Shukla",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "RS Gavaskar",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "SE Bond",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "M Kartik",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "I Sharma",
+        "strikeRate": "35.29"
+      },
+      {
+        "batsman": "KA Pollard",
+        "strikeRate": "179.61"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "115.09"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "72.22"
+      },
+      {
+        "batsman": "PJ Sangwan",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "S Ladda",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "DP Nannes",
+        "strikeRate": "30.77"
+      },
+      {
+        "batsman": "MJ Lumb",
+        "strikeRate": "141.84"
+      },
+      {
+        "batsman": "DR Martyn",
+        "strikeRate": "73.08"
+      },
+      {
+        "batsman": "S Narwal",
+        "strikeRate": "107.69"
+      },
+      {
+        "batsman": "M Morkel",
+        "strikeRate": "56.25"
+      },
+      {
+        "batsman": "MM Patel",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "SK Trivedi",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "144.62"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "141.18"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "86.75"
+      },
+      {
+        "batsman": "RP Singh",
+        "strikeRate": "45.00"
+      },
+      {
+        "batsman": "AB Barath",
+        "strikeRate": "97.67"
+      },
+      {
+        "batsman": "Bipul Sharma",
+        "strikeRate": "128.57"
+      },
+      {
+        "batsman": "FY Fazal",
+        "strikeRate": "102.50"
+      },
+      {
+        "batsman": "AC Voges",
+        "strikeRate": "126.57"
+      },
+      {
+        "batsman": "Z Khan",
+        "strikeRate": "184.62"
+      },
+      {
+        "batsman": "MD Mishra",
+        "strikeRate": "111.41"
+      },
+      {
+        "batsman": "Y Venugopal Rao",
+        "strikeRate": "77.27"
+      },
+      {
+        "batsman": "MC Henriques",
+        "strikeRate": "220.00"
+      },
+      {
+        "batsman": "Y Nagar",
+        "strikeRate": "14.29"
+      },
+      {
+        "batsman": "UT Yadav",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "J Theron",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "MS Gony",
+        "strikeRate": "28.57"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "148.22"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "106.11"
+      },
+      {
+        "batsman": "MV Boucher",
+        "strikeRate": "130.00"
+      },
+      {
+        "batsman": "GJ Bailey",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "SJ Srivastava",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "R Sharma",
+        "strikeRate": "111.54"
+      },
+      {
+        "batsman": "Mandeep Singh",
+        "strikeRate": "36.36"
+      },
+      {
+        "batsman": "DJ Hussey",
+        "strikeRate": "105.62"
+      },
+      {
+        "batsman": "K Goel",
+        "strikeRate": "90.00"
+      },
+      {
+        "batsman": "B Lee",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "KM Jadhav",
+        "strikeRate": "126.67"
+      },
+      {
+        "batsman": "AB McDonald",
+        "strikeRate": "120.37"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "77.14"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "76.47"
+      },
+      {
+        "batsman": "A Kumble",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "SW Tait",
+        "strikeRate": "92.31"
+      },
+      {
+        "batsman": "KB Arun Karthik",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "T Thushara",
+        "strikeRate": "90.91"
+      },
+      {
+        "batsman": "KAJ Roach",
+        "strikeRate": "111.11"
+      },
+      {
+        "batsman": "PD Collingwood",
+        "strikeRate": "127.67"
+      },
+      {
+        "batsman": "AB Agarkar",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "CK Langeveldt",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "125.64"
+      },
+      {
+        "batsman": "VS Malik",
+        "strikeRate": "120.00"
+      },
+      {
+        "batsman": "KP Pietersen",
+        "strikeRate": "148.43"
+      },
+      {
+        "batsman": "CL White",
+        "strikeRate": "145.45"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "158.12"
+      },
+      {
+        "batsman": "AS Raut",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "RJ Harris",
+        "strikeRate": "115.38"
+      },
+      {
+        "batsman": "PP Ojha",
+        "strikeRate": "37.50"
+      },
+      {
+        "batsman": "DL Vettori",
+        "strikeRate": "117.86"
+      },
+      {
+        "batsman": "LRPL Taylor",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "A Mithun",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "KP Appanna",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "AP Dole",
+        "strikeRate": "147.83"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "88.00"
+      },
+      {
+        "batsman": "AA Bilakhia",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "MEK Hussey",
+        "strikeRate": "84.09"
+      },
+      {
+        "batsman": "AN Ahmed",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "97.44"
+      },
+      {
+        "batsman": "JP Duminy",
+        "strikeRate": "117.16"
+      },
+      {
+        "batsman": "RS Sodhi",
+        "strikeRate": "200.00"
+      },
+      {
+        "batsman": "DE Bollinger",
+        "strikeRate": "105.88"
+      },
+      {
+        "batsman": "AB Dinda",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "BAW Mendis",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "S Sriram",
+        "strikeRate": "87.10"
+      },
+      {
+        "batsman": "A Nehra",
+        "strikeRate": "115.00"
+      },
+      {
+        "batsman": "B Sumanth",
+        "strikeRate": "92.11"
+      },
+      {
+        "batsman": "C Madan",
+        "strikeRate": "71.43"
+      },
+      {
+        "batsman": "Iqbal Abdulla",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "AG Paunikar",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "MR Marsh",
+        "strikeRate": "90.32"
+      },
+      {
+        "batsman": "AM Nayar",
+        "strikeRate": "113.73"
+      },
+      {
+        "batsman": "Pankaj Singh",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "AJ Finch",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "STR Binny",
+        "strikeRate": "160.00"
+      },
+      {
+        "batsman": "S Anirudha",
+        "strikeRate": "157.89"
+      },
+      {
+        "batsman": "Harmeet Singh",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "CRD Fernando",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "SL Malinga",
+        "strikeRate": "100.00"
+      }
+    ]
+  },
+  {
+    "season": "2011",
+    "strikeRates": [
+      {
+        "batsman": "S Anirudha",
+        "strikeRate": "106.41"
+      },
+      {
+        "batsman": "M Vijay",
+        "strikeRate": "124.36"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "130.75"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "158.70"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "127.78"
+      },
+      {
+        "batsman": "SB Styris",
+        "strikeRate": "250.00"
+      },
+      {
+        "batsman": "MS Bisla",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "JH Kallis",
+        "strikeRate": "109.84"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "138.05"
+      },
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "106.85"
+      },
+      {
+        "batsman": "EJG Morgan",
+        "strikeRate": "111.38"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "113.86"
+      },
+      {
+        "batsman": "LR Shukla",
+        "strikeRate": "140.00"
+      },
+      {
+        "batsman": "Iqbal Abdulla",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "108.70"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "126.98"
+      },
+      {
+        "batsman": "IR Jaggi",
+        "strikeRate": "73.68"
+      },
+      {
+        "batsman": "KC Sangakkara",
+        "strikeRate": "120.13"
+      },
+      {
+        "batsman": "B Chipli",
+        "strikeRate": "120.35"
+      },
+      {
+        "batsman": "JP Duminy",
+        "strikeRate": "116.48"
+      },
+      {
+        "batsman": "DT Christian",
+        "strikeRate": "118.01"
+      },
+      {
+        "batsman": "DB Ravi Teja",
+        "strikeRate": "124.49"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "97.30"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "130.77"
+      },
+      {
+        "batsman": "I Sharma",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "AG Paunikar",
+        "strikeRate": "81.67"
+      },
+      {
+        "batsman": "R Dravid",
+        "strikeRate": "107.19"
+      },
+      {
+        "batsman": "J Botha",
+        "strikeRate": "115.00"
+      },
+      {
+        "batsman": "LRPL Taylor",
+        "strikeRate": "114.56"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "122.26"
+      },
+      {
+        "batsman": "VVS Laxman",
+        "strikeRate": "104.76"
+      },
+      {
+        "batsman": "DPMD Jayawardene",
+        "strikeRate": "109.93"
+      },
+      {
+        "batsman": "BJ Hodge",
+        "strikeRate": "116.33"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "120.94"
+      },
+      {
+        "batsman": "RV Gomez",
+        "strikeRate": "88.46"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "106.88"
+      },
+      {
+        "batsman": "MA Agarwal",
+        "strikeRate": "109.30"
+      },
+      {
+        "batsman": "TM Dilshan",
+        "strikeRate": "122.16"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "117.76"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "125.81"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "95.41"
+      },
+      {
+        "batsman": "AUK Pathan",
+        "strikeRate": "183.33"
+      },
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "115.30"
+      },
+      {
+        "batsman": "V Sehwag",
+        "strikeRate": "171.66"
+      },
+      {
+        "batsman": "UBT Chand",
+        "strikeRate": "16.67"
+      },
+      {
+        "batsman": "AJ Finch",
+        "strikeRate": "92.16"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "94.67"
+      },
+      {
+        "batsman": "Y Venugopal Rao",
+        "strikeRate": "115.07"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "102.74"
+      },
+      {
+        "batsman": "RE van der Merwe",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "M Morkel",
+        "strikeRate": "160.00"
+      },
+      {
+        "batsman": "UT Yadav",
+        "strikeRate": "16.67"
+      },
+      {
+        "batsman": "AB Dinda",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "DJ Jacobs",
+        "strikeRate": "101.10"
+      },
+      {
+        "batsman": "SR Tendulkar",
+        "strikeRate": "108.22"
+      },
+      {
+        "batsman": "AT Rayudu",
+        "strikeRate": "111.27"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "122.37"
+      },
+      {
+        "batsman": "AC Gilchrist",
+        "strikeRate": "123.95"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "144.41"
+      },
+      {
+        "batsman": "PC Valthaty",
+        "strikeRate": "131.91"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "125.33"
+      },
+      {
+        "batsman": "AM Nayar",
+        "strikeRate": "91.04"
+      },
+      {
+        "batsman": "Sunny Singh",
+        "strikeRate": "138.71"
+      },
+      {
+        "batsman": "R McLaren",
+        "strikeRate": "89.11"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "87.27"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "81.82"
+      },
+      {
+        "batsman": "NJ Rimmington",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "GC Smith",
+        "strikeRate": "77.78"
+      },
+      {
+        "batsman": "M Manhas",
+        "strikeRate": "89.06"
+      },
+      {
+        "batsman": "JD Ryder",
+        "strikeRate": "145.27"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "122.79"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "127.51"
+      },
+      {
+        "batsman": "AL Menaria",
+        "strikeRate": "113.92"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "121.21"
+      },
+      {
+        "batsman": "S Badrinath",
+        "strikeRate": "123.75"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "104.17"
+      },
+      {
+        "batsman": "S Sreesanth",
+        "strikeRate": "11.11"
+      },
+      {
+        "batsman": "RP Singh",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "MD Mishra",
+        "strikeRate": "111.67"
+      },
+      {
+        "batsman": "WD Parnell",
+        "strikeRate": "88.10"
+      },
+      {
+        "batsman": "R Sharma",
+        "strikeRate": "104.35"
+      },
+      {
+        "batsman": "S Sohal",
+        "strikeRate": "123.88"
+      },
+      {
+        "batsman": "Z Khan",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "CA Pujara",
+        "strikeRate": "106.25"
+      },
+      {
+        "batsman": "JJ van der Wath",
+        "strikeRate": "105.88"
+      },
+      {
+        "batsman": "R Ninan",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "DL Vettori",
+        "strikeRate": "76.67"
+      },
+      {
+        "batsman": "S Aravind",
+        "strikeRate": "130.00"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "128.91"
+      },
+      {
+        "batsman": "MEK Hussey",
+        "strikeRate": "116.31"
+      },
+      {
+        "batsman": "MS Gony",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "MS Wade",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "JR Hopes",
+        "strikeRate": "120.99"
+      },
+      {
+        "batsman": "FY Fazal",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "AS Raut",
+        "strikeRate": "101.69"
+      },
+      {
+        "batsman": "SK Warne",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "A Singh",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "SW Tait",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "SK Trivedi",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "CL White",
+        "strikeRate": "95.41"
+      },
+      {
+        "batsman": "Y Nagar",
+        "strikeRate": "102.78"
+      },
+      {
+        "batsman": "TD Paine",
+        "strikeRate": "34.48"
+      },
+      {
+        "batsman": "M Kartik",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "SB Wagh",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "AC Thomas",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "JEC Franklin",
+        "strikeRate": "133.75"
+      },
+      {
+        "batsman": "A Symonds",
+        "strikeRate": "94.41"
+      },
+      {
+        "batsman": "KM Jadhav",
+        "strikeRate": "78.26"
+      },
+      {
+        "batsman": "RR Powar",
+        "strikeRate": "84.62"
+      },
+      {
+        "batsman": "Shakib Al Hasan",
+        "strikeRate": "126.09"
+      },
+      {
+        "batsman": "B Lee",
+        "strikeRate": "55.56"
+      },
+      {
+        "batsman": "L Balaji",
+        "strikeRate": "200.00"
+      },
+      {
+        "batsman": "SA Asnodkar",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "STR Binny",
+        "strikeRate": "119.35"
+      },
+      {
+        "batsman": "DH Yagnik",
+        "strikeRate": "69.57"
+      },
+      {
+        "batsman": "R Sathish",
+        "strikeRate": "71.43"
+      },
+      {
+        "batsman": "KA Pollard",
+        "strikeRate": "103.55"
+      },
+      {
+        "batsman": "R Ashwin",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "Joginder Sharma",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "S Randiv",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "DE Bollinger",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "BJ Haddin",
+        "strikeRate": "163.64"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "177.78"
+      },
+      {
+        "batsman": "DJ Hussey",
+        "strikeRate": "98.46"
+      },
+      {
+        "batsman": "RJ Harris",
+        "strikeRate": "79.49"
+      },
+      {
+        "batsman": "NLTC Perera",
+        "strikeRate": "79.31"
+      },
+      {
+        "batsman": "M Muralitharan",
+        "strikeRate": "62.50"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "105.58"
+      },
+      {
+        "batsman": "NL McCullum",
+        "strikeRate": "113.04"
+      },
+      {
+        "batsman": "JE Taylor",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "A Mithun",
+        "strikeRate": "135.00"
+      },
+      {
+        "batsman": "J Syed Mohammad",
+        "strikeRate": "115.38"
+      },
+      {
+        "batsman": "MR Marsh",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "SP Goswami",
+        "strikeRate": "93.55"
+      },
+      {
+        "batsman": "RN ten Doeschate",
+        "strikeRate": "140.79"
+      },
+      {
+        "batsman": "TR Birt",
+        "strikeRate": "127.12"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "139.19"
+      },
+      {
+        "batsman": "SL Malinga",
+        "strikeRate": "88.89"
+      },
+      {
+        "batsman": "AG Murtaza",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "M Kaif",
+        "strikeRate": "117.14"
+      },
+      {
+        "batsman": "Harpreet Singh",
+        "strikeRate": "70.00"
+      },
+      {
+        "batsman": "M Klinger",
+        "strikeRate": "93.59"
+      },
+      {
+        "batsman": "B Akhil",
+        "strikeRate": "144.44"
+      },
+      {
+        "batsman": "Bipul Sharma",
+        "strikeRate": "127.78"
+      },
+      {
+        "batsman": "AC Blizzard",
+        "strikeRate": "136.36"
+      },
+      {
+        "batsman": "TL Suman",
+        "strikeRate": "122.64"
+      },
+      {
+        "batsman": "AA Jhunjhunwala",
+        "strikeRate": "52.63"
+      },
+      {
+        "batsman": "MV Boucher",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "I Malhotra",
+        "strikeRate": "175.00"
+      },
+      {
+        "batsman": "L Ablish",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "CA Ingram",
+        "strikeRate": "80.77"
+      },
+      {
+        "batsman": "AB Agarkar",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "S Nadeem",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "P Parameswaran",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "Mandeep Singh",
+        "strikeRate": "111.90"
+      },
+      {
+        "batsman": "SD Chitnis",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "SJ Srivastava",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "CJ Ferguson",
+        "strikeRate": "85.71"
+      },
+      {
+        "batsman": "SC Ganguly",
+        "strikeRate": "81.97"
+      },
+      {
+        "batsman": "DS Kulkarni",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "MM Patel",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "AB McDonald",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "OA Shah",
+        "strikeRate": "162.50"
+      },
+      {
+        "batsman": "LA Pomersbach",
+        "strikeRate": "124.39"
+      },
+      {
+        "batsman": "KB Arun Karthik",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "MJ Lumb",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "S Sriram",
+        "strikeRate": "57.14"
+      },
+      {
+        "batsman": "VR Aaron",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "PR Shah",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "JDP Oram",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "AA Chavan",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "ND Doshi",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "B Kumar",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "CK Langeveldt",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "101.49"
+      },
+      {
+        "batsman": "Y Gnaneswara Rao",
+        "strikeRate": "105.56"
+      },
+      {
+        "batsman": "S Rana",
+        "strikeRate": "112.50"
+      },
+      {
+        "batsman": "BA Bhatt",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "183.33"
+      },
+      {
+        "batsman": "AN Ahmed",
+        "strikeRate": "138.46"
+      }
+    ]
+  },
+  {
+    "season": "2012",
+    "strikeRates": [
+      {
+        "batsman": "F du Plessis",
+        "strikeRate": "128.39"
+      },
+      {
+        "batsman": "M Vijay",
+        "strikeRate": "123.08"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "131.64"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "136.90"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "150.70"
+      },
+      {
+        "batsman": "S Badrinath",
+        "strikeRate": "104.26"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "126.15"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "124.84"
+      },
+      {
+        "batsman": "R Ashwin",
+        "strikeRate": "120.00"
+      },
+      {
+        "batsman": "SB Jakati",
+        "strikeRate": "58.33"
+      },
+      {
+        "batsman": "DE Bollinger",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "RE Levi",
+        "strikeRate": "112.16"
+      },
+      {
+        "batsman": "SR Tendulkar",
+        "strikeRate": "109.09"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "123.71"
+      },
+      {
+        "batsman": "AT Rayudu",
+        "strikeRate": "127.59"
+      },
+      {
+        "batsman": "JEC Franklin",
+        "strikeRate": "96.07"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "100.70"
+      },
+      {
+        "batsman": "JH Kallis",
+        "strikeRate": "104.07"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "137.53"
+      },
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "103.59"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "108.38"
+      },
+      {
+        "batsman": "DB Das",
+        "strikeRate": "131.25"
+      },
+      {
+        "batsman": "LR Shukla",
+        "strikeRate": "131.58"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "B Lee",
+        "strikeRate": "200.00"
+      },
+      {
+        "batsman": "Iqbal Abdulla",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "AJ Finch",
+        "strikeRate": "105.77"
+      },
+      {
+        "batsman": "V Sehwag",
+        "strikeRate": "156.15"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "132.33"
+      },
+      {
+        "batsman": "GJ Maxwell",
+        "strikeRate": "54.55"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "124.35"
+      },
+      {
+        "batsman": "WD Parnell",
+        "strikeRate": "65.52"
+      },
+      {
+        "batsman": "SC Ganguly",
+        "strikeRate": "93.06"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "113.45"
+      },
+      {
+        "batsman": "CJ Ferguson",
+        "strikeRate": "79.37"
+      },
+      {
+        "batsman": "SPD Smith",
+        "strikeRate": "133.09"
+      },
+      {
+        "batsman": "MN Samuels",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "B Kumar",
+        "strikeRate": "97.56"
+      },
+      {
+        "batsman": "M Kartik",
+        "strikeRate": "123.81"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "109.68"
+      },
+      {
+        "batsman": "SA Yadav",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "KA Pollard",
+        "strikeRate": "134.97"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "131.71"
+      },
+      {
+        "batsman": "SL Malinga",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "PP Ojha",
+        "strikeRate": "28.57"
+      },
+      {
+        "batsman": "MM Patel",
+        "strikeRate": "28.57"
+      },
+      {
+        "batsman": "R Dravid",
+        "strikeRate": "108.96"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "AL Menaria",
+        "strikeRate": "106.28"
+      },
+      {
+        "batsman": "BJ Hodge",
+        "strikeRate": "136.11"
+      },
+      {
+        "batsman": "OA Shah",
+        "strikeRate": "126.39"
+      },
+      {
+        "batsman": "KK Cooper",
+        "strikeRate": "190.00"
+      },
+      {
+        "batsman": "AC Gilchrist",
+        "strikeRate": "117.01"
+      },
+      {
+        "batsman": "PC Valthaty",
+        "strikeRate": "57.69"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "AM Nayar",
+        "strikeRate": "91.84"
+      },
+      {
+        "batsman": "Mandeep Singh",
+        "strikeRate": "123.78"
+      },
+      {
+        "batsman": "DJ Hussey",
+        "strikeRate": "126.52"
+      },
+      {
+        "batsman": "Bipul Sharma",
+        "strikeRate": "153.19"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "120.45"
+      },
+      {
+        "batsman": "JP Faulkner",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "109.38"
+      },
+      {
+        "batsman": "Harmeet Singh",
+        "strikeRate": "214.29"
+      },
+      {
+        "batsman": "AB McDonald",
+        "strikeRate": "130.56"
+      },
+      {
+        "batsman": "CA Pujara",
+        "strikeRate": "73.91"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "109.31"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "157.14"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "110.40"
+      },
+      {
+        "batsman": "MA Agarwal",
+        "strikeRate": "137.20"
+      },
+      {
+        "batsman": "DL Vettori",
+        "strikeRate": "110.71"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "104.62"
+      },
+      {
+        "batsman": "HV Patel",
+        "strikeRate": "88.24"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "110.87"
+      },
+      {
+        "batsman": "Y Venugopal Rao",
+        "strikeRate": "102.33"
+      },
+      {
+        "batsman": "Y Nagar",
+        "strikeRate": "114.18"
+      },
+      {
+        "batsman": "DAJ Bracewell",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "M Morkel",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "DJ Harris",
+        "strikeRate": "107.77"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "127.01"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "116.87"
+      },
+      {
+        "batsman": "CL White",
+        "strikeRate": "146.48"
+      },
+      {
+        "batsman": "B Chipli",
+        "strikeRate": "105.71"
+      },
+      {
+        "batsman": "DT Christian",
+        "strikeRate": "118.85"
+      },
+      {
+        "batsman": "MS Gony",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "DB Ravi Teja",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "90.48"
+      },
+      {
+        "batsman": "Ankit Sharma",
+        "strikeRate": "138.46"
+      },
+      {
+        "batsman": "SP Goswami",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "SP Narine",
+        "strikeRate": "112.50"
+      },
+      {
+        "batsman": "JD Ryder",
+        "strikeRate": "118.52"
+      },
+      {
+        "batsman": "R Sharma",
+        "strikeRate": "18.18"
+      },
+      {
+        "batsman": "AD Mascarenhas",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "KC Sangakkara",
+        "strikeRate": "105.26"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "76.19"
+      },
+      {
+        "batsman": "TL Suman",
+        "strikeRate": "78.95"
+      },
+      {
+        "batsman": "MS Bisla",
+        "strikeRate": "124.56"
+      },
+      {
+        "batsman": "RN ten Doeschate",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "Shakib Al Hasan",
+        "strikeRate": "118.18"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "155.30"
+      },
+      {
+        "batsman": "Z Khan",
+        "strikeRate": "70.59"
+      },
+      {
+        "batsman": "KP Pietersen",
+        "strikeRate": "145.24"
+      },
+      {
+        "batsman": "DPMD Jayawardene",
+        "strikeRate": "109.48"
+      },
+      {
+        "batsman": "J Botha",
+        "strikeRate": "105.45"
+      },
+      {
+        "batsman": "AA Chavan",
+        "strikeRate": "137.50"
+      },
+      {
+        "batsman": "A Singh",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "SK Trivedi",
+        "strikeRate": "83.33"
+      },
+      {
+        "batsman": "GB Hogg",
+        "strikeRate": "93.75"
+      },
+      {
+        "batsman": "RR Bhatkal",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "AD Mathews",
+        "strikeRate": "115.45"
+      },
+      {
+        "batsman": "M Manhas",
+        "strikeRate": "121.21"
+      },
+      {
+        "batsman": "A Nehra",
+        "strikeRate": "84.62"
+      },
+      {
+        "batsman": "AB Dinda",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "JP Duminy",
+        "strikeRate": "125.13"
+      },
+      {
+        "batsman": "AA Jhunjhunwala",
+        "strikeRate": "88.89"
+      },
+      {
+        "batsman": "LRPL Taylor",
+        "strikeRate": "111.30"
+      },
+      {
+        "batsman": "P Dogra",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "BA Bhatt",
+        "strikeRate": "300.00"
+      },
+      {
+        "batsman": "M Kaif",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "S Aravind",
+        "strikeRate": "175.00"
+      },
+      {
+        "batsman": "M Muralitharan",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "DJ Jacobs",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "CJ McKay",
+        "strikeRate": "53.33"
+      },
+      {
+        "batsman": "RP Singh",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "DH Yagnik",
+        "strikeRate": "178.57"
+      },
+      {
+        "batsman": "TM Dilshan",
+        "strikeRate": "104.01"
+      },
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "159.01"
+      },
+      {
+        "batsman": "N Saini",
+        "strikeRate": "97.90"
+      },
+      {
+        "batsman": "DA Miller",
+        "strikeRate": "128.95"
+      },
+      {
+        "batsman": "Azhar Mahmood",
+        "strikeRate": "128.28"
+      },
+      {
+        "batsman": "P Negi",
+        "strikeRate": "120.00"
+      },
+      {
+        "batsman": "NLTC Perera",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "IR Jaggi",
+        "strikeRate": "68.18"
+      },
+      {
+        "batsman": "STR Binny",
+        "strikeRate": "128.57"
+      },
+      {
+        "batsman": "RJ Peterson",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "AC Thomas",
+        "strikeRate": "126.67"
+      },
+      {
+        "batsman": "AC Blizzard",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "42.86"
+      },
+      {
+        "batsman": "KMDN Kulasekara",
+        "strikeRate": "166.67"
+      },
+      {
+        "batsman": "A Ashish Reddy",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "V Pratap Singh",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "MEK Hussey",
+        "strikeRate": "108.30"
+      },
+      {
+        "batsman": "BB Samantray",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "MJ Clarke",
+        "strikeRate": "102.08"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "149.12"
+      },
+      {
+        "batsman": "AUK Pathan",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "Gurkeerat Singh",
+        "strikeRate": "159.26"
+      },
+      {
+        "batsman": "RJ Harris",
+        "strikeRate": "163.64"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "153.92"
+      },
+      {
+        "batsman": "J Syed Mohammad",
+        "strikeRate": "400.00"
+      },
+      {
+        "batsman": "S Nadeem",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "VR Aaron",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "AP Majumdar",
+        "strikeRate": "112.99"
+      },
+      {
+        "batsman": "SD Chitnis",
+        "strikeRate": "103.13"
+      },
+      {
+        "batsman": "PA Reddy",
+        "strikeRate": "115.87"
+      },
+      {
+        "batsman": "J Theron",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "S Anirudha",
+        "strikeRate": "211.11"
+      },
+      {
+        "batsman": "MD Mishra",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "K Upadhyay",
+        "strikeRate": "137.50"
+      },
+      {
+        "batsman": "HH Gibbs",
+        "strikeRate": "89.01"
+      },
+      {
+        "batsman": "P Awana",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "UBT Chand",
+        "strikeRate": "102.86"
+      },
+      {
+        "batsman": "AD Russell",
+        "strikeRate": "174.07"
+      },
+      {
+        "batsman": "UT Yadav",
+        "strikeRate": "28.57"
+      },
+      {
+        "batsman": "A Chandila",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "CA Lynn",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "Harpreet Singh",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "AG Murtaza",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "P Parameswaran",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "DS Kulkarni",
+        "strikeRate": "200.00"
+      },
+      {
+        "batsman": "Sunny Gupta",
+        "strikeRate": "0.00"
+      }
+    ]
+  },
+  {
+    "season": "2013",
+    "strikeRates": [
+      {
+        "batsman": "UBT Chand",
+        "strikeRate": "96.93"
+      },
+      {
+        "batsman": "DPMD Jayawardene",
+        "strikeRate": "102.80"
+      },
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "123.12"
+      },
+      {
+        "batsman": "MC Juneja",
+        "strikeRate": "93.28"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "90.00"
+      },
+      {
+        "batsman": "J Botha",
+        "strikeRate": "82.69"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "96.23"
+      },
+      {
+        "batsman": "AD Russell",
+        "strikeRate": "73.33"
+      },
+      {
+        "batsman": "S Nadeem",
+        "strikeRate": "51.85"
+      },
+      {
+        "batsman": "A Nehra",
+        "strikeRate": "12.50"
+      },
+      {
+        "batsman": "MS Bisla",
+        "strikeRate": "102.82"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "114.69"
+      },
+      {
+        "batsman": "JH Kallis",
+        "strikeRate": "95.11"
+      },
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "102.82"
+      },
+      {
+        "batsman": "EJG Morgan",
+        "strikeRate": "122.80"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "134.41"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "148.76"
+      },
+      {
+        "batsman": "TM Dilshan",
+        "strikeRate": "78.35"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "135.67"
+      },
+      {
+        "batsman": "MA Agarwal",
+        "strikeRate": "104.69"
+      },
+      {
+        "batsman": "DT Christian",
+        "strikeRate": "37.50"
+      },
+      {
+        "batsman": "KK Nair",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "KB Arun Karthik",
+        "strikeRate": "102.50"
+      },
+      {
+        "batsman": "RT Ponting",
+        "strikeRate": "68.42"
+      },
+      {
+        "batsman": "SR Tendulkar",
+        "strikeRate": "118.11"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "120.85"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "129.64"
+      },
+      {
+        "batsman": "AT Rayudu",
+        "strikeRate": "112.77"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "141.46"
+      },
+      {
+        "batsman": "KA Pollard",
+        "strikeRate": "144.83"
+      },
+      {
+        "batsman": "PA Reddy",
+        "strikeRate": "87.50"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "112.64"
+      },
+      {
+        "batsman": "KC Sangakkara",
+        "strikeRate": "87.59"
+      },
+      {
+        "batsman": "CL White",
+        "strikeRate": "113.00"
+      },
+      {
+        "batsman": "NLTC Perera",
+        "strikeRate": "135.84"
+      },
+      {
+        "batsman": "GH Vihari",
+        "strikeRate": "83.97"
+      },
+      {
+        "batsman": "A Ashish Reddy",
+        "strikeRate": "138.89"
+      },
+      {
+        "batsman": "DB Ravi Teja",
+        "strikeRate": "77.78"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "112.73"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "97.84"
+      },
+      {
+        "batsman": "MN Samuels",
+        "strikeRate": "44.44"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "123.32"
+      },
+      {
+        "batsman": "LRPL Taylor",
+        "strikeRate": "81.82"
+      },
+      {
+        "batsman": "AM Nayar",
+        "strikeRate": "89.19"
+      },
+      {
+        "batsman": "MR Marsh",
+        "strikeRate": "128.44"
+      },
+      {
+        "batsman": "AD Mathews",
+        "strikeRate": "121.99"
+      },
+      {
+        "batsman": "B Kumar",
+        "strikeRate": "72.22"
+      },
+      {
+        "batsman": "R Sharma",
+        "strikeRate": "64.71"
+      },
+      {
+        "batsman": "AB Dinda",
+        "strikeRate": "81.82"
+      },
+      {
+        "batsman": "MDKJ Perera",
+        "strikeRate": "107.69"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "103.39"
+      },
+      {
+        "batsman": "R Dravid",
+        "strikeRate": "108.78"
+      },
+      {
+        "batsman": "STR Binny",
+        "strikeRate": "143.63"
+      },
+      {
+        "batsman": "BJ Hodge",
+        "strikeRate": "130.80"
+      },
+      {
+        "batsman": "AL Menaria",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "KK Cooper",
+        "strikeRate": "177.27"
+      },
+      {
+        "batsman": "R Shukla",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "119.09"
+      },
+      {
+        "batsman": "MEK Hussey",
+        "strikeRate": "126.38"
+      },
+      {
+        "batsman": "M Vijay",
+        "strikeRate": "106.48"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "148.11"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "108.04"
+      },
+      {
+        "batsman": "S Badrinath",
+        "strikeRate": "100.81"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "154.70"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "144.60"
+      },
+      {
+        "batsman": "R Ashwin",
+        "strikeRate": "70.00"
+      },
+      {
+        "batsman": "B Laughlin",
+        "strikeRate": "44.44"
+      },
+      {
+        "batsman": "AS Rajpoot",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "TL Suman",
+        "strikeRate": "89.66"
+      },
+      {
+        "batsman": "AC Gilchrist",
+        "strikeRate": "125.64"
+      },
+      {
+        "batsman": "Mandeep Singh",
+        "strikeRate": "114.04"
+      },
+      {
+        "batsman": "M Vohra",
+        "strikeRate": "137.61"
+      },
+      {
+        "batsman": "DJ Hussey",
+        "strikeRate": "111.90"
+      },
+      {
+        "batsman": "MC Henriques",
+        "strikeRate": "129.92"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "159.09"
+      },
+      {
+        "batsman": "M Kartik",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "JD Unadkat",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "143.24"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "138.17"
+      },
+      {
+        "batsman": "DH Yagnik",
+        "strikeRate": "126.26"
+      },
+      {
+        "batsman": "S Sreesanth",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "LR Shukla",
+        "strikeRate": "23.08"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "122.22"
+      },
+      {
+        "batsman": "B Lee",
+        "strikeRate": "175.00"
+      },
+      {
+        "batsman": "Mohammed Shami",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "SP Narine",
+        "strikeRate": "105.00"
+      },
+      {
+        "batsman": "BMAJ Mendis",
+        "strikeRate": "85.19"
+      },
+      {
+        "batsman": "KM Jadhav",
+        "strikeRate": "119.69"
+      },
+      {
+        "batsman": "M Morkel",
+        "strikeRate": "190.00"
+      },
+      {
+        "batsman": "UT Yadav",
+        "strikeRate": "97.44"
+      },
+      {
+        "batsman": "Gurkeerat Singh",
+        "strikeRate": "110.20"
+      },
+      {
+        "batsman": "Azhar Mahmood",
+        "strikeRate": "124.05"
+      },
+      {
+        "batsman": "R Sathish",
+        "strikeRate": "137.97"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "106.67"
+      },
+      {
+        "batsman": "RJ Harris",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "114.63"
+      },
+      {
+        "batsman": "P Awana",
+        "strikeRate": "11.11"
+      },
+      {
+        "batsman": "R McLaren",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "PJ Sangwan",
+        "strikeRate": "200.00"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "165.04"
+      },
+      {
+        "batsman": "JP Faulkner",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "AJ Finch",
+        "strikeRate": "132.56"
+      },
+      {
+        "batsman": "V Sehwag",
+        "strikeRate": "120.90"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "86.41"
+      },
+      {
+        "batsman": "R Rampaul",
+        "strikeRate": "97.44"
+      },
+      {
+        "batsman": "CH Morris",
+        "strikeRate": "82.35"
+      },
+      {
+        "batsman": "KV Sharma",
+        "strikeRate": "95.51"
+      },
+      {
+        "batsman": "SV Samson",
+        "strikeRate": "115.08"
+      },
+      {
+        "batsman": "SPD Smith",
+        "strikeRate": "118.66"
+      },
+      {
+        "batsman": "S Anirudha",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "124.32"
+      },
+      {
+        "batsman": "DA Miller",
+        "strikeRate": "162.65"
+      },
+      {
+        "batsman": "MS Gony",
+        "strikeRate": "166.67"
+      },
+      {
+        "batsman": "DB Das",
+        "strikeRate": "98.68"
+      },
+      {
+        "batsman": "SMSM Senanayake",
+        "strikeRate": "58.82"
+      },
+      {
+        "batsman": "BJ Rohrer",
+        "strikeRate": "132.19"
+      },
+      {
+        "batsman": "KL Rahul",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "AB McDonald",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "J Syed Mohammad",
+        "strikeRate": "76.92"
+      },
+      {
+        "batsman": "Q de Kock",
+        "strikeRate": "37.50"
+      },
+      {
+        "batsman": "BB Samantray",
+        "strikeRate": "107.89"
+      },
+      {
+        "batsman": "R Dhawan",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "MG Johnson",
+        "strikeRate": "105.41"
+      },
+      {
+        "batsman": "SL Malinga",
+        "strikeRate": "47.37"
+      },
+      {
+        "batsman": "PP Ojha",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "AB Agarkar",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "PC Valthaty",
+        "strikeRate": "35.29"
+      },
+      {
+        "batsman": "AD Mascarenhas",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "L Balaji",
+        "strikeRate": "90.00"
+      },
+      {
+        "batsman": "A Chandila",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "SW Tait",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "SK Trivedi",
+        "strikeRate": "42.86"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "96.46"
+      },
+      {
+        "batsman": "LJ Wright",
+        "strikeRate": "168.25"
+      },
+      {
+        "batsman": "M Manhas",
+        "strikeRate": "76.47"
+      },
+      {
+        "batsman": "AG Murtaza",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "IC Pandey",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "117.19"
+      },
+      {
+        "batsman": "CM Gautam",
+        "strikeRate": "118.92"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "118.70"
+      },
+      {
+        "batsman": "X Thalaivan Sargunam",
+        "strikeRate": "58.82"
+      },
+      {
+        "batsman": "DJG Sammy",
+        "strikeRate": "127.94"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "122.81"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "85.71"
+      },
+      {
+        "batsman": "A Mukund",
+        "strikeRate": "86.36"
+      },
+      {
+        "batsman": "OA Shah",
+        "strikeRate": "104.17"
+      },
+      {
+        "batsman": "KW Richardson",
+        "strikeRate": "94.44"
+      },
+      {
+        "batsman": "S Narwal",
+        "strikeRate": "143.75"
+      },
+      {
+        "batsman": "LA Pomersbach",
+        "strikeRate": "96.67"
+      },
+      {
+        "batsman": "BAW Mendis",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "CA Pujara",
+        "strikeRate": "92.00"
+      },
+      {
+        "batsman": "MM Sharma",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "Iqbal Abdulla",
+        "strikeRate": "57.14"
+      },
+      {
+        "batsman": "RN ten Doeschate",
+        "strikeRate": "134.92"
+      },
+      {
+        "batsman": "UA Birla",
+        "strikeRate": "46.67"
+      },
+      {
+        "batsman": "M Rawat",
+        "strikeRate": "45.45"
+      },
+      {
+        "batsman": "WD Parnell",
+        "strikeRate": "71.43"
+      },
+      {
+        "batsman": "Parvez Rasool",
+        "strikeRate": "55.56"
+      },
+      {
+        "batsman": "K Upadhyay",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "GJ Maxwell",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "Harmeet Singh",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "Sandeep Sharma",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "A Mithun",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "RE van der Merwe",
+        "strikeRate": "88.00"
+      },
+      {
+        "batsman": "S Kaul",
+        "strikeRate": "77.78"
+      },
+      {
+        "batsman": "AP Tare",
+        "strikeRate": "146.43"
+      },
+      {
+        "batsman": "Sachin Baby",
+        "strikeRate": "42.86"
+      },
+      {
+        "batsman": "PV Tambe",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "NM Coulter-Nile",
+        "strikeRate": "150.00"
+      },
+      {
+        "batsman": "RV Gomez",
+        "strikeRate": "400.00"
+      },
+      {
+        "batsman": "B Chipli",
+        "strikeRate": "84.21"
+      },
+      {
+        "batsman": "P Dogra",
+        "strikeRate": "62.50"
+      }
+    ]
+  },
+  {
+    "season": "2014",
+    "strikeRates": [
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "111.30"
+      },
+      {
+        "batsman": "JH Kallis",
+        "strikeRate": "115.27"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "113.93"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "136.08"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "159.52"
+      },
+      {
+        "batsman": "Shakib Al Hasan",
+        "strikeRate": "143.13"
+      },
+      {
+        "batsman": "SA Yadav",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "MEK Hussey",
+        "strikeRate": "111.76"
+      },
+      {
+        "batsman": "AP Tare",
+        "strikeRate": "123.53"
+      },
+      {
+        "batsman": "AT Rayudu",
+        "strikeRate": "121.96"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "127.04"
+      },
+      {
+        "batsman": "KA Pollard",
+        "strikeRate": "131.25"
+      },
+      {
+        "batsman": "CJ Anderson",
+        "strikeRate": "142.47"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "107.69"
+      },
+      {
+        "batsman": "CM Gautam",
+        "strikeRate": "104.31"
+      },
+      {
+        "batsman": "MA Agarwal",
+        "strikeRate": "123.66"
+      },
+      {
+        "batsman": "M Vijay",
+        "strikeRate": "105.08"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "124.52"
+      },
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "123.58"
+      },
+      {
+        "batsman": "JP Duminy",
+        "strikeRate": "131.83"
+      },
+      {
+        "batsman": "LRPL Taylor",
+        "strikeRate": "95.16"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "107.33"
+      },
+      {
+        "batsman": "NJ Maddinson",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "119.27"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "130.56"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "133.18"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "118.77"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "141.35"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "143.80"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "266.67"
+      },
+      {
+        "batsman": "CA Pujara",
+        "strikeRate": "96.90"
+      },
+      {
+        "batsman": "V Sehwag",
+        "strikeRate": "136.23"
+      },
+      {
+        "batsman": "GJ Maxwell",
+        "strikeRate": "176.92"
+      },
+      {
+        "batsman": "AR Patel",
+        "strikeRate": "101.64"
+      },
+      {
+        "batsman": "DA Miller",
+        "strikeRate": "145.28"
+      },
+      {
+        "batsman": "GJ Bailey",
+        "strikeRate": "135.26"
+      },
+      {
+        "batsman": "AJ Finch",
+        "strikeRate": "115.30"
+      },
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "136.79"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "113.55"
+      },
+      {
+        "batsman": "KL Rahul",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "DJG Sammy",
+        "strikeRate": "111.34"
+      },
+      {
+        "batsman": "Y Venugopal Rao",
+        "strikeRate": "109.23"
+      },
+      {
+        "batsman": "KV Sharma",
+        "strikeRate": "140.00"
+      },
+      {
+        "batsman": "AM Nayar",
+        "strikeRate": "86.00"
+      },
+      {
+        "batsman": "SV Samson",
+        "strikeRate": "121.07"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "113.76"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "120.00"
+      },
+      {
+        "batsman": "STR Binny",
+        "strikeRate": "100.82"
+      },
+      {
+        "batsman": "BJ Hodge",
+        "strikeRate": "136.49"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "121.82"
+      },
+      {
+        "batsman": "JP Faulkner",
+        "strikeRate": "182.83"
+      },
+      {
+        "batsman": "Z Khan",
+        "strikeRate": "114.29"
+      },
+      {
+        "batsman": "SL Malinga",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "PP Ojha",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "JJ Bumrah",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "154.90"
+      },
+      {
+        "batsman": "JDS Neesham",
+        "strikeRate": "91.30"
+      },
+      {
+        "batsman": "SPD Smith",
+        "strikeRate": "132.17"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "141.96"
+      },
+      {
+        "batsman": "F du Plessis",
+        "strikeRate": "126.25"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "129.20"
+      },
+      {
+        "batsman": "M Manhas",
+        "strikeRate": "134.62"
+      },
+      {
+        "batsman": "R Ashwin",
+        "strikeRate": "93.75"
+      },
+      {
+        "batsman": "S Nadeem",
+        "strikeRate": "35.00"
+      },
+      {
+        "batsman": "Mohammed Shami",
+        "strikeRate": "37.50"
+      },
+      {
+        "batsman": "JD Unadkat",
+        "strikeRate": "16.67"
+      },
+      {
+        "batsman": "MG Johnson",
+        "strikeRate": "109.80"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "94.83"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "84.62"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "57.14"
+      },
+      {
+        "batsman": "B Kumar",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "TG Southee",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "DS Kulkarni",
+        "strikeRate": "129.63"
+      },
+      {
+        "batsman": "PV Tambe",
+        "strikeRate": "55.56"
+      },
+      {
+        "batsman": "CA Lynn",
+        "strikeRate": "111.54"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "57.14"
+      },
+      {
+        "batsman": "YV Takawale",
+        "strikeRate": "113.04"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "109.76"
+      },
+      {
+        "batsman": "Q de Kock",
+        "strikeRate": "115.91"
+      },
+      {
+        "batsman": "KP Pietersen",
+        "strikeRate": "123.01"
+      },
+      {
+        "batsman": "S Rana",
+        "strikeRate": "110.61"
+      },
+      {
+        "batsman": "MA Starc",
+        "strikeRate": "101.19"
+      },
+      {
+        "batsman": "R Rampaul",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "AB Dinda",
+        "strikeRate": "30.77"
+      },
+      {
+        "batsman": "KK Nair",
+        "strikeRate": "139.24"
+      },
+      {
+        "batsman": "R Dhawan",
+        "strikeRate": "109.33"
+      },
+      {
+        "batsman": "L Balaji",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "Sandeep Sharma",
+        "strikeRate": "40.00"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "155.00"
+      },
+      {
+        "batsman": "SP Narine",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "UT Yadav",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "M Morkel",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "KM Jadhav",
+        "strikeRate": "143.27"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "104.26"
+      },
+      {
+        "batsman": "VR Aaron",
+        "strikeRate": "102.94"
+      },
+      {
+        "batsman": "MS Bisla",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "136.47"
+      },
+      {
+        "batsman": "BR Dunk",
+        "strikeRate": "111.11"
+      },
+      {
+        "batsman": "AD Russell",
+        "strikeRate": "25.00"
+      },
+      {
+        "batsman": "RR Rossouw",
+        "strikeRate": "95.12"
+      },
+      {
+        "batsman": "HV Patel",
+        "strikeRate": "185.71"
+      },
+      {
+        "batsman": "RN ten Doeschate",
+        "strikeRate": "157.58"
+      },
+      {
+        "batsman": "LR Shukla",
+        "strikeRate": "81.58"
+      },
+      {
+        "batsman": "Mandeep Singh",
+        "strikeRate": "85.71"
+      },
+      {
+        "batsman": "MC Henriques",
+        "strikeRate": "64.29"
+      },
+      {
+        "batsman": "KW Richardson",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "Shivam Sharma",
+        "strikeRate": "166.67"
+      },
+      {
+        "batsman": "YS Chahal",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "R Shukla",
+        "strikeRate": "85.71"
+      },
+      {
+        "batsman": "LMP Simmons",
+        "strikeRate": "131.77"
+      },
+      {
+        "batsman": "VH Zol",
+        "strikeRate": "111.54"
+      },
+      {
+        "batsman": "Ankit Sharma",
+        "strikeRate": "109.68"
+      },
+      {
+        "batsman": "DH Yagnik",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "M Vohra",
+        "strikeRate": "132.79"
+      },
+      {
+        "batsman": "KK Cooper",
+        "strikeRate": "139.29"
+      },
+      {
+        "batsman": "BCJ Cutting",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "Imran Tahir",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "S Kaul",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "DJ Hussey",
+        "strikeRate": "120.83"
+      },
+      {
+        "batsman": "AN Ahmed",
+        "strikeRate": "400.00"
+      },
+      {
+        "batsman": "UBT Chand",
+        "strikeRate": "20.00"
+      },
+      {
+        "batsman": "WD Parnell",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "129.63"
+      },
+      {
+        "batsman": "BE Hendricks",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "S Gopal",
+        "strikeRate": "110.00"
+      },
+      {
+        "batsman": "M de Lange",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "R Tewatia",
+        "strikeRate": "123.08"
+      },
+      {
+        "batsman": "VS Malik",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "S Anirudha",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "JO Holder",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "Karanveer Singh",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "MM Sharma",
+        "strikeRate": "33.33"
+      }
+    ]
+  },
+  {
+    "season": "2015",
+    "strikeRates": [
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "142.18"
+      },
+      {
+        "batsman": "AJ Finch",
+        "strikeRate": "69.70"
+      },
+      {
+        "batsman": "AP Tare",
+        "strikeRate": "77.78"
+      },
+      {
+        "batsman": "AT Rayudu",
+        "strikeRate": "144.10"
+      },
+      {
+        "batsman": "CJ Anderson",
+        "strikeRate": "116.33"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "126.83"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "113.54"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "120.32"
+      },
+      {
+        "batsman": "SA Yadav",
+        "strikeRate": "136.52"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "128.40"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "117.01"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "148.81"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "117.24"
+      },
+      {
+        "batsman": "F du Plessis",
+        "strikeRate": "119.87"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "103.13"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "120.39"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "129.14"
+      },
+      {
+        "batsman": "R Ashwin",
+        "strikeRate": "152.94"
+      },
+      {
+        "batsman": "MM Sharma",
+        "strikeRate": "155.56"
+      },
+      {
+        "batsman": "MA Agarwal",
+        "strikeRate": "113.90"
+      },
+      {
+        "batsman": "CM Gautam",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "122.86"
+      },
+      {
+        "batsman": "SS Iyer",
+        "strikeRate": "121.94"
+      },
+      {
+        "batsman": "KM Jadhav",
+        "strikeRate": "132.17"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "115.35"
+      },
+      {
+        "batsman": "JP Duminy",
+        "strikeRate": "126.61"
+      },
+      {
+        "batsman": "NM Coulter-Nile",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "61.54"
+      },
+      {
+        "batsman": "Imran Tahir",
+        "strikeRate": "83.33"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "127.66"
+      },
+      {
+        "batsman": "SV Samson",
+        "strikeRate": "122.89"
+      },
+      {
+        "batsman": "SPD Smith",
+        "strikeRate": "130.70"
+      },
+      {
+        "batsman": "KK Nair",
+        "strikeRate": "123.13"
+      },
+      {
+        "batsman": "STR Binny",
+        "strikeRate": "107.25"
+      },
+      {
+        "batsman": "JP Faulkner",
+        "strikeRate": "124.14"
+      },
+      {
+        "batsman": "DJ Hooda",
+        "strikeRate": "152.53"
+      },
+      {
+        "batsman": "CH Morris",
+        "strikeRate": "161.70"
+      },
+      {
+        "batsman": "V Sehwag",
+        "strikeRate": "111.24"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "121.46"
+      },
+      {
+        "batsman": "M Vijay",
+        "strikeRate": "107.73"
+      },
+      {
+        "batsman": "GJ Maxwell",
+        "strikeRate": "126.96"
+      },
+      {
+        "batsman": "AR Patel",
+        "strikeRate": "113.81"
+      },
+      {
+        "batsman": "DA Miller",
+        "strikeRate": "130.29"
+      },
+      {
+        "batsman": "GJ Bailey",
+        "strikeRate": "132.14"
+      },
+      {
+        "batsman": "MG Johnson",
+        "strikeRate": "81.58"
+      },
+      {
+        "batsman": "Anureet Singh",
+        "strikeRate": "58.06"
+      },
+      {
+        "batsman": "Karanveer Singh",
+        "strikeRate": "68.75"
+      },
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "152.72"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "120.48"
+      },
+      {
+        "batsman": "KL Rahul",
+        "strikeRate": "106.77"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "108.73"
+      },
+      {
+        "batsman": "RS Bopara",
+        "strikeRate": "119.83"
+      },
+      {
+        "batsman": "KS Williamson",
+        "strikeRate": "106.90"
+      },
+      {
+        "batsman": "KV Sharma",
+        "strikeRate": "119.54"
+      },
+      {
+        "batsman": "Parvez Rasool",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "AD Russell",
+        "strikeRate": "186.29"
+      },
+      {
+        "batsman": "Shakib Al Hasan",
+        "strikeRate": "112.50"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "136.77"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "127.85"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "117.50"
+      },
+      {
+        "batsman": "Mandeep Singh",
+        "strikeRate": "153.92"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "169.87"
+      },
+      {
+        "batsman": "DJG Sammy",
+        "strikeRate": "72.22"
+      },
+      {
+        "batsman": "SA Abbott",
+        "strikeRate": "115.38"
+      },
+      {
+        "batsman": "HV Patel",
+        "strikeRate": "135.71"
+      },
+      {
+        "batsman": "AN Ahmed",
+        "strikeRate": "200.00"
+      },
+      {
+        "batsman": "AD Mathews",
+        "strikeRate": "132.11"
+      },
+      {
+        "batsman": "TG Southee",
+        "strikeRate": "144.44"
+      },
+      {
+        "batsman": "R Dhawan",
+        "strikeRate": "109.09"
+      },
+      {
+        "batsman": "KA Pollard",
+        "strikeRate": "155.19"
+      },
+      {
+        "batsman": "J Suchith",
+        "strikeRate": "145.45"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "144.44"
+      },
+      {
+        "batsman": "VR Aaron",
+        "strikeRate": "200.00"
+      },
+      {
+        "batsman": "YS Chahal",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "132.94"
+      },
+      {
+        "batsman": "UBT Chand",
+        "strikeRate": "114.61"
+      },
+      {
+        "batsman": "S Gopal",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "P Negi",
+        "strikeRate": "150.65"
+      },
+      {
+        "batsman": "A Nehra",
+        "strikeRate": "14.29"
+      },
+      {
+        "batsman": "RG More",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "EJG Morgan",
+        "strikeRate": "121.43"
+      },
+      {
+        "batsman": "A Ashish Reddy",
+        "strikeRate": "158.70"
+      },
+      {
+        "batsman": "LMP Simmons",
+        "strikeRate": "118.68"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "68.00"
+      },
+      {
+        "batsman": "NLTC Perera",
+        "strikeRate": "80.00"
+      },
+      {
+        "batsman": "Gurkeerat Singh",
+        "strikeRate": "85.37"
+      },
+      {
+        "batsman": "RN ten Doeschate",
+        "strikeRate": "135.56"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "110.20"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "128.52"
+      },
+      {
+        "batsman": "HH Pandya",
+        "strikeRate": "164.71"
+      },
+      {
+        "batsman": "MS Bisla",
+        "strikeRate": "123.33"
+      },
+      {
+        "batsman": "RR Rossouw",
+        "strikeRate": "140.00"
+      },
+      {
+        "batsman": "D Wiese",
+        "strikeRate": "135.56"
+      },
+      {
+        "batsman": "Iqbal Abdulla",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "MK Tiwary",
+        "strikeRate": "98.28"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "143.08"
+      },
+      {
+        "batsman": "MC Henriques",
+        "strikeRate": "132.87"
+      },
+      {
+        "batsman": "SN Khan",
+        "strikeRate": "154.17"
+      },
+      {
+        "batsman": "MA Starc",
+        "strikeRate": "78.57"
+      },
+      {
+        "batsman": "MJ McClenaghan",
+        "strikeRate": "216.67"
+      },
+      {
+        "batsman": "SL Malinga",
+        "strikeRate": "54.55"
+      },
+      {
+        "batsman": "DS Kulkarni",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "PV Tambe",
+        "strikeRate": "60.00"
+      },
+      {
+        "batsman": "GH Vihari",
+        "strikeRate": "108.33"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "153.85"
+      },
+      {
+        "batsman": "B Kumar",
+        "strikeRate": "170.00"
+      },
+      {
+        "batsman": "Sandeep Sharma",
+        "strikeRate": "64.29"
+      },
+      {
+        "batsman": "S Nadeem",
+        "strikeRate": "28.57"
+      },
+      {
+        "batsman": "DJ Muthuswami",
+        "strikeRate": "33.33"
+      },
+      {
+        "batsman": "M Vohra",
+        "strikeRate": "98.80"
+      },
+      {
+        "batsman": "J Botha",
+        "strikeRate": "206.67"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "131.33"
+      },
+      {
+        "batsman": "PJ Cummins",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "UT Yadav",
+        "strikeRate": "181.25"
+      },
+      {
+        "batsman": "GB Hogg",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "SN Thakur",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "J Theron",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "NJ Maddinson",
+        "strikeRate": "57.14"
+      },
+      {
+        "batsman": "Bipul Sharma",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "SP Narine",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "Q de Kock",
+        "strikeRate": "156.41"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "Ankit Sharma",
+        "strikeRate": "116.67"
+      },
+      {
+        "batsman": "BE Hendricks",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "MEK Hussey",
+        "strikeRate": "105.48"
+      },
+      {
+        "batsman": "Azhar Mahmood",
+        "strikeRate": "75.00"
+      },
+      {
+        "batsman": "M Morkel",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "S Aravind",
+        "strikeRate": "0.00"
+      }
+    ]
+  },
+  {
+    "season": "2016",
+    "strikeRates": [
+      {
+        "batsman": "LMP Simmons",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "RG Sharma",
+        "strikeRate": "131.45"
+      },
+      {
+        "batsman": "HH Pandya",
+        "strikeRate": "66.67"
+      },
+      {
+        "batsman": "JC Buttler",
+        "strikeRate": "134.92"
+      },
+      {
+        "batsman": "AT Rayudu",
+        "strikeRate": "117.61"
+      },
+      {
+        "batsman": "KA Pollard",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "S Gopal",
+        "strikeRate": "12.50"
+      },
+      {
+        "batsman": "Harbhajan Singh",
+        "strikeRate": "101.10"
+      },
+      {
+        "batsman": "R Vinay Kumar",
+        "strikeRate": "108.33"
+      },
+      {
+        "batsman": "MJ McClenaghan",
+        "strikeRate": "147.83"
+      },
+      {
+        "batsman": "AM Rahane",
+        "strikeRate": "124.03"
+      },
+      {
+        "batsman": "F du Plessis",
+        "strikeRate": "121.89"
+      },
+      {
+        "batsman": "KP Pietersen",
+        "strikeRate": "119.67"
+      },
+      {
+        "batsman": "MA Agarwal",
+        "strikeRate": "103.85"
+      },
+      {
+        "batsman": "Q de Kock",
+        "strikeRate": "130.88"
+      },
+      {
+        "batsman": "SS Iyer",
+        "strikeRate": "65.22"
+      },
+      {
+        "batsman": "KK Nair",
+        "strikeRate": "117.43"
+      },
+      {
+        "batsman": "SV Samson",
+        "strikeRate": "109.81"
+      },
+      {
+        "batsman": "P Negi",
+        "strikeRate": "90.48"
+      },
+      {
+        "batsman": "CR Brathwaite",
+        "strikeRate": "207.50"
+      },
+      {
+        "batsman": "CH Morris",
+        "strikeRate": "171.05"
+      },
+      {
+        "batsman": "NM Coulter-Nile",
+        "strikeRate": "64.29"
+      },
+      {
+        "batsman": "A Mishra",
+        "strikeRate": "28.57"
+      },
+      {
+        "batsman": "Z Khan",
+        "strikeRate": "46.15"
+      },
+      {
+        "batsman": "RV Uthappa",
+        "strikeRate": "131.33"
+      },
+      {
+        "batsman": "G Gambhir",
+        "strikeRate": "118.16"
+      },
+      {
+        "batsman": "MK Pandey",
+        "strikeRate": "130.53"
+      },
+      {
+        "batsman": "M Vijay",
+        "strikeRate": "121.45"
+      },
+      {
+        "batsman": "M Vohra",
+        "strikeRate": "118.38"
+      },
+      {
+        "batsman": "DA Miller",
+        "strikeRate": "115.83"
+      },
+      {
+        "batsman": "GJ Maxwell",
+        "strikeRate": "138.76"
+      },
+      {
+        "batsman": "WP Saha",
+        "strikeRate": "126.17"
+      },
+      {
+        "batsman": "MP Stoinis",
+        "strikeRate": "131.53"
+      },
+      {
+        "batsman": "AR Patel",
+        "strikeRate": "137.04"
+      },
+      {
+        "batsman": "AJ Finch",
+        "strikeRate": "126.37"
+      },
+      {
+        "batsman": "BB McCullum",
+        "strikeRate": "129.67"
+      },
+      {
+        "batsman": "SK Raina",
+        "strikeRate": "124.30"
+      },
+      {
+        "batsman": "KD Karthik",
+        "strikeRate": "122.71"
+      },
+      {
+        "batsman": "RA Jadeja",
+        "strikeRate": "101.06"
+      },
+      {
+        "batsman": "Ishan Kishan",
+        "strikeRate": "102.44"
+      },
+      {
+        "batsman": "DJ Bravo",
+        "strikeRate": "112.50"
+      },
+      {
+        "batsman": "CH Gayle",
+        "strikeRate": "142.77"
+      },
+      {
+        "batsman": "V Kohli",
+        "strikeRate": "148.55"
+      },
+      {
+        "batsman": "AB de Villiers",
+        "strikeRate": "165.54"
+      },
+      {
+        "batsman": "SR Watson",
+        "strikeRate": "132.59"
+      },
+      {
+        "batsman": "KM Jadhav",
+        "strikeRate": "127.27"
+      },
+      {
+        "batsman": "SN Khan",
+        "strikeRate": "212.90"
+      },
+      {
+        "batsman": "DA Warner",
+        "strikeRate": "146.46"
+      },
+      {
+        "batsman": "S Dhawan",
+        "strikeRate": "114.38"
+      },
+      {
+        "batsman": "MC Henriques",
+        "strikeRate": "112.35"
+      },
+      {
+        "batsman": "NV Ojha",
+        "strikeRate": "95.77"
+      },
+      {
+        "batsman": "DJ Hooda",
+        "strikeRate": "115.20"
+      },
+      {
+        "batsman": "EJG Morgan",
+        "strikeRate": "117.14"
+      },
+      {
+        "batsman": "A Ashish Reddy",
+        "strikeRate": "156.67"
+      },
+      {
+        "batsman": "KV Sharma",
+        "strikeRate": "105.88"
+      },
+      {
+        "batsman": "AD Russell",
+        "strikeRate": "150.40"
+      },
+      {
+        "batsman": "YK Pathan",
+        "strikeRate": "141.02"
+      },
+      {
+        "batsman": "C Munro",
+        "strikeRate": "96.77"
+      },
+      {
+        "batsman": "SA Yadav",
+        "strikeRate": "122.97"
+      },
+      {
+        "batsman": "PA Patel",
+        "strikeRate": "109.94"
+      },
+      {
+        "batsman": "SPD Smith",
+        "strikeRate": "146.74"
+      },
+      {
+        "batsman": "MS Dhoni",
+        "strikeRate": "129.09"
+      },
+      {
+        "batsman": "MR Marsh",
+        "strikeRate": "63.64"
+      },
+      {
+        "batsman": "R Bhatia",
+        "strikeRate": "170.00"
+      },
+      {
+        "batsman": "SE Marsh",
+        "strikeRate": "118.66"
+      },
+      {
+        "batsman": "MG Johnson",
+        "strikeRate": "35.71"
+      },
+      {
+        "batsman": "MM Sharma",
+        "strikeRate": "118.52"
+      },
+      {
+        "batsman": "P Sahu",
+        "strikeRate": "146.15"
+      },
+      {
+        "batsman": "Sandeep Sharma",
+        "strikeRate": "88.89"
+      },
+      {
+        "batsman": "B Kumar",
+        "strikeRate": "153.57"
+      },
+      {
+        "batsman": "KH Pandya",
+        "strikeRate": "186.61"
+      },
+      {
+        "batsman": "TG Southee",
+        "strikeRate": "150.00"
+      },
+      {
+        "batsman": "AD Nath",
+        "strikeRate": "74.07"
+      },
+      {
+        "batsman": "JP Faulkner",
+        "strikeRate": "128.33"
+      },
+      {
+        "batsman": "P Kumar",
+        "strikeRate": "88.89"
+      },
+      {
+        "batsman": "DS Kulkarni",
+        "strikeRate": "168.75"
+      },
+      {
+        "batsman": "NLTC Perera",
+        "strikeRate": "154.64"
+      },
+      {
+        "batsman": "IK Pathan",
+        "strikeRate": "78.57"
+      },
+      {
+        "batsman": "R Ashwin",
+        "strikeRate": "107.89"
+      },
+      {
+        "batsman": "D Wiese",
+        "strikeRate": "125.00"
+      },
+      {
+        "batsman": "JP Duminy",
+        "strikeRate": "121.66"
+      },
+      {
+        "batsman": "MJ Guptill",
+        "strikeRate": "103.64"
+      },
+      {
+        "batsman": "KJ Abbott",
+        "strikeRate": "162.50"
+      },
+      {
+        "batsman": "Shakib Al Hasan",
+        "strikeRate": "105.56"
+      },
+      {
+        "batsman": "KL Rahul",
+        "strikeRate": "143.32"
+      },
+      {
+        "batsman": "TM Head",
+        "strikeRate": "128.57"
+      },
+      {
+        "batsman": "STR Binny",
+        "strikeRate": "153.66"
+      },
+      {
+        "batsman": "KW Richardson",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "DW Steyn",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "Ankit Sharma",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "M Ashwin",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "NS Naik",
+        "strikeRate": "69.70"
+      },
+      {
+        "batsman": "R Dhawan",
+        "strikeRate": "233.33"
+      },
+      {
+        "batsman": "AP Tare",
+        "strikeRate": "53.33"
+      },
+      {
+        "batsman": "DR Smith",
+        "strikeRate": "143.36"
+      },
+      {
+        "batsman": "JA Morkel",
+        "strikeRate": "177.78"
+      },
+      {
+        "batsman": "R Sathish",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "PP Chawla",
+        "strikeRate": "103.85"
+      },
+      {
+        "batsman": "UT Yadav",
+        "strikeRate": "150.00"
+      },
+      {
+        "batsman": "Bipul Sharma",
+        "strikeRate": "204.00"
+      },
+      {
+        "batsman": "RR Pant",
+        "strikeRate": "127.74"
+      },
+      {
+        "batsman": "CA Lynn",
+        "strikeRate": "108.70"
+      },
+      {
+        "batsman": "SS Tiwary",
+        "strikeRate": "114.09"
+      },
+      {
+        "batsman": "SW Billings",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "Mohammed Shami",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "JO Holder",
+        "strikeRate": "110.00"
+      },
+      {
+        "batsman": "SP Narine",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "KS Williamson",
+        "strikeRate": "98.41"
+      },
+      {
+        "batsman": "Sachin Baby",
+        "strikeRate": "145.12"
+      },
+      {
+        "batsman": "Parvez Rasool",
+        "strikeRate": "111.11"
+      },
+      {
+        "batsman": "Gurkeerat Singh",
+        "strikeRate": "129.89"
+      },
+      {
+        "batsman": "KC Cariappa",
+        "strikeRate": "118.18"
+      },
+      {
+        "batsman": "PSP Handscomb",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "Swapnil Singh",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "J Yadav",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "UT Khawaja",
+        "strikeRate": "120.95"
+      },
+      {
+        "batsman": "Yuvraj Singh",
+        "strikeRate": "128.96"
+      },
+      {
+        "batsman": "GJ Bailey",
+        "strikeRate": "84.85"
+      },
+      {
+        "batsman": "HM Amla",
+        "strikeRate": "128.69"
+      },
+      {
+        "batsman": "JJ Bumrah",
+        "strikeRate": "72.73"
+      },
+      {
+        "batsman": "F Behardien",
+        "strikeRate": "107.69"
+      },
+      {
+        "batsman": "BB Sran",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "A Zampa",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "N Rana",
+        "strikeRate": "133.33"
+      },
+      {
+        "batsman": "A Nehra",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "UBT Chand",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "PV Tambe",
+        "strikeRate": "36.84"
+      },
+      {
+        "batsman": "S Kaushik",
+        "strikeRate": "0.00"
+      },
+      {
+        "batsman": "BCJ Cutting",
+        "strikeRate": "175.68"
+      },
+      {
+        "batsman": "S Nadeem",
+        "strikeRate": "20.00"
+      },
+      {
+        "batsman": "Imran Tahir",
+        "strikeRate": "71.43"
+      },
+      {
+        "batsman": "M Morkel",
+        "strikeRate": "100.00"
+      },
+      {
+        "batsman": "ER Dwivedi",
+        "strikeRate": "160.00"
+      },
+      {
+        "batsman": "SB Jakati",
+        "strikeRate": "50.00"
+      },
+      {
+        "batsman": "Iqbal Abdulla",
+        "strikeRate": "137.04"
+      },
+      {
+        "batsman": "CJ Jordan",
+        "strikeRate": "75.00"
+      }
+    ]
+  }
+]

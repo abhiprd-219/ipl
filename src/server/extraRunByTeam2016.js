@@ -26,8 +26,7 @@ function findExtraRunsPerTeam2016() {
 const output = findExtraRunsPerTeam2016();
 const outputArray = Array.from(output, ([team, extraRuns]) => ({ team, extraRuns }));
 const outputJSON = JSON.stringify(outputArray, null, 2);
-
-fs.writeFile('public/findExtraRunsPerTeam2016.json', outputJSON, (err) => {
+fs.writeFile('src/output/findExtraRunsPerTeam2016.json', outputJSON, (err) => {
     if (err) throw err;
-    console.log("Output has been written to public/output.json");
+    console.log("Output has been written to src/output/name.json");
 });

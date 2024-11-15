@@ -40,7 +40,7 @@ const output = findMostFrequentDismissalPair();
 
 const outputJSON = JSON.stringify(output, null, 2); 
 
-fs.writeFile('public/findMostFrequentDismissalPair.json', outputJSON, (err) => {
+fs.writeFile('src/output/findMostFrequentDismissalPair.json', outputJSON, (err) => {
     if (err) throw err;
-    console.log("Output has been written to public/output.json");
+    console.log("Output has been written to src/output/name.json");
 });
